@@ -51,15 +51,21 @@ def log(msg):
     print(f"[{stamp}] {msg}", flush=True)
 
 
+NOTIFICATIONS_ENABLED = True  # overridden from config in main()
+
+
 def notify(title, message, sound="Glass"):
+    # alerts.log always records; the banner is optional (config "notifications")
+    stamp = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    with ALERT_LOG.open("a") as f:
+        f.write(f"[{stamp}] {title}: {message}\n")
+    if not NOTIFICATIONS_ENABLED:
+        return
     script = (
         f'display notification "{message}" '
         f'with title "{title}" sound name "{sound}"'
     )
     subprocess.run(["osascript", "-e", script], check=False)
-    stamp = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    with ALERT_LOG.open("a") as f:
-        f.write(f"[{stamp}] {title}: {message}\n")
 
 
 def slugify(name):
@@ -272,7 +278,9 @@ def run_seat_checks(sess, state, cursors, budget):
 
 
 def main():
+    global NOTIFICATIONS_ENABLED
     cfg = json.loads(CONFIG_FILE.read_text())
+    NOTIFICATIONS_ENABLED = cfg.get("notifications", True)
     sess = requests.Session(impersonate="chrome")
     theatres = resolve_theatres(sess, cfg)
 
