@@ -7,8 +7,9 @@ Shows read "on sale" while only front-row seats remain, so seat maps, not the
 StopSales flag, are the signal that matters.
 
 ## Current task
-v2 seat-map layer: per-show getSeatPlan checks (rotating, 30/cycle), alert on
-0→N good-seat transitions. Done when launchd runs it every 15 min cleanly.
+v3 shipped: national public tracker. All 12 US Regal IMAX 70mm venues +
+Philly-local IMAX, plain-language dashboard with Buy links and browser alerts,
+auto-published to GitHub Pages (JKobygold/odyssey-imax-tracker) each cycle.
 
 ## Out of scope
 - Do not expand the project structure unless the user asks.

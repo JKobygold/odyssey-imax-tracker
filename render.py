@@ -128,21 +128,27 @@ def render(state, cfg, theatres, docs_dir):
 </section>"""
 
     # ---------- spotlight ----------
+    def city_of(code):
+        t = theatres.get(code, {})
+        return f'{t.get("city", "")}, {t.get("state", "")}'.strip(", ")
+
     if good_now:
         items = "".join(
-            f'<li><span class="spot-main"><strong>{_fmt_daytime(r["when"])}</strong> · '
-            f'{html.escape(r["theatre"])} {_badge(r["fmt"])}<br>'
+            f'<li><span class="spot-main">'
+            f'<strong class="spot-city">{html.escape(city_of(r["code"]))}</strong> · '
+            f'<strong>{_fmt_daytime(r["when"])}</strong> {_badge(r["fmt"])}<br>'
+            f'<span class="spot-venue">{html.escape(r["theatre"])}</span><br>'
             f'<span class="spot-rows">✓ {r["good"]} decent seats · {html.escape(_rows_human(r.get("rows", {})))}</span></span>'
             f'<a class="buy" href="{theatre_url(r["code"])}" rel="nofollow">Buy&nbsp;↗</a></li>'
             for r in good_now[:12]
         )
-        spotlight = (f'<section class="spotlight"><h2>🎟️ Book one of these right now</h2>'
-                     f'<p class="hint">These showtimes have seats that are NOT in the front row. '
-                     f'Soonest first. They will not wait for you.</p><ul>{items}</ul></section>')
+        spotlight = (f'<section class="spotlight"><h2>🎟️ The next good seats, across the country</h2>'
+                     f'<p class="hint">Seats that are NOT in the front row, soonest first. '
+                     f'Mostly cancellations — they go in minutes.</p><ul>{items}</ul></section>')
     else:
-        spotlight = ('<section class="spotlight"><h2>🎟️ Book one of these right now</h2>'
-                     '<p class="hint">Nothing at the moment — every non-front seat is taken. '
-                     'People cancel constantly, though. Turn on alerts above and leave this tab open; '
+        spotlight = ('<section class="spotlight"><h2>🎟️ The next good seats, across the country</h2>'
+                     '<p class="hint">Right now: none. Every non-front seat in America is taken. '
+                     'People cancel constantly though — turn on alerts below and leave this tab open; '
                      'we re-check every 15 minutes.</p></section>')
 
     # ---------- venue sections ----------
@@ -224,10 +230,10 @@ def render(state, cfg, theatres, docs_dir):
         "mainEntity": [{"@type": "Question", "name": q,
                         "acceptedAnswer": {"@type": "Answer", "text": a}} for q, a in faq]})
 
-    title = f"{movie} IMAX 70mm Seat Tracker — Live Ticket Availability at Regal"
-    desc = (f"Live seat tracker for {movie} in IMAX and IMAX 70mm. See which Regal showtimes "
-            "have decent seats right now — not just the front row — and get an alert when "
-            "cancellations open seats up.")
+    title = f"{movie} IMAX Tickets Sold Out? — Live Good-Seat Tracker, Every US Regal 70mm Theater"
+    desc = (f"Can't get {movie} tickets in IMAX 70mm? This page watches the live seat map of every "
+            "US Regal IMAX 70mm showing and lists the next good seats (not the front row) as "
+            "cancellations open them up. Free alerts, updated every 15 minutes.")
     updated = now.strftime("%b %-d, %-I:%M %p")
 
     page = f"""<!DOCTYPE html>
@@ -285,6 +291,8 @@ header h1 {{ font-size: 1.7rem; margin: 0 0 4px; }}
 .spotlight li {{ padding: 10px 0; border-top: 1px solid var(--hairline);
   display: flex; gap: 12px; justify-content: space-between; align-items: center; }}
 .spot-rows {{ color: var(--good-text); font-size: 0.88rem; }}
+.spot-city {{ font-size: 1.05rem; }}
+.spot-venue {{ color: var(--ink-2); font-size: 0.88rem; }}
 .hint {{ color: var(--ink-2); margin: 0; font-size: 0.9rem; }}
 .buy {{ flex-shrink: 0; font-size: 0.92rem; font-weight: 650; padding: 5px 14px;
   border-radius: 8px; background: var(--accent); color: #fff; text-decoration: none; }}
@@ -343,12 +351,17 @@ h2 {{ font-size: 1.15rem; margin: 26px 0 6px; }}
 <body>
 <main>
 <header>
-<h1>🎬 Find seats for {html.escape(movie)} in IMAX</h1>
-<p class="tagline">An epic about a man trying to get home. A tracker for people trying to get a decent seat.</p>
-<p class="plain">Every Regal IMAX 70mm showing of {html.escape(movie)} in the US, with a live look at its
-seat map — so you can see which "sold out" shows actually have seats, and which open seats are worth having.</p>
+<h1>🎬 Can't get {html.escape(movie)} tickets in IMAX?</h1>
+<p class="tagline">Nobody can. Here are the next good seats coming up across the country.</p>
+<p class="plain">We watch the live seat map of every Regal IMAX 70mm showing of {html.escape(movie)}
+in the US. When a cancellation opens up seats that aren't in the front row, they show up here — usually
+before anyone else notices.</p>
 <p class="updated">Updated {updated} ET · this page refreshes itself</p>
 </header>
+
+{spotlight}
+
+{howto}
 
 <div class="tiles">
 <div class="tile"><div class="n good">{n_good}</div><div class="l">showtimes with decent seats right now</div></div>
@@ -356,10 +369,6 @@ seat map — so you can see which "sold out" shows actually have seats, and whic
 <div class="tile"><div class="n">{n_shows}</div><div class="l">showtimes being watched</div></div>
 <div class="tile"><div class="n">{n_venues}</div><div class="l">Regal theaters</div></div>
 </div>
-
-{howto}
-
-{spotlight}
 
 <h2>Every theater, every showtime</h2>
 <p class="hint">✓ green = seats in the middle or back are open. ⚠ yellow = only the front row is left

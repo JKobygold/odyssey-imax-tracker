@@ -17,3 +17,10 @@ Short lessons that should change future behavior in this repo.
   or O (Warrington, 15 rows). RowIndexZeroBased 0 = BACK row, not front.
 - The order-flow endpoints (createOrder, tickets, GetOrderSessionSeatData)
   rate-limit much harder than the read endpoints and are not needed.
+- getShowtimes takes comma-separated theatre codes — one request covers a dozen
+  theatres. Scanning theatres one-per-request trips 429s in ~25 requests;
+  batches of 12 with 15s gaps sail through. Batch first, always.
+- All 12 US Regal IMAX 70mm venues (2026-07): 0297 New Rochelle NY, 0347
+  Dublin CA, 0615 Nashville TN, 0652 Tigard OR, 0701 Buford GA, 0734 Orlando
+  FL, 1010 Irvine CA, 1026 Ontario CA, 1042 Long Beach CA, 1329 King of
+  Prussia PA, 1346 Atlanta GA, 1550 Lakewood CO.
