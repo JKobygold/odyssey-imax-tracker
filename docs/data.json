@@ -1,0 +1,465 @@
+{
+ "updated": "2026-07-22T20:16:52.608432",
+ "movie": "The Odyssey",
+ "venues": {
+  "1329": {
+   "name": "REG King of Prussia 4DX & IMAX",
+   "city": "King Of Prussia",
+   "state": "PA",
+   "slug": "reg-king-of-prussia-4dx-imax-1329"
+  },
+  "0379": {
+   "name": "Warrington Stadium 22 & IMAX",
+   "city": "Warrington",
+   "state": "PA",
+   "slug": "warrington-stadium-22-imax-0379"
+  }
+ },
+ "good_now": [
+  {
+   "when": "2026-07-22T23:00:00",
+   "theatre": "Warrington IMAX Laser",
+   "fmt": "IMAX",
+   "good": 98,
+   "rows": {
+    "O": 4,
+    "N": 8,
+    "M": 11,
+    "L": 6,
+    "K": 9,
+    "J": 9,
+    "I": 11,
+    "H": 11,
+    "G": 13,
+    "F": 16
+   }
+  },
+  {
+   "when": "2026-07-23T11:00:00",
+   "theatre": "Warrington IMAX Laser",
+   "fmt": "IMAX",
+   "good": 111,
+   "rows": {
+    "O": 3,
+    "N": 14,
+    "M": 12,
+    "L": 10,
+    "K": 13,
+    "J": 8,
+    "I": 9,
+    "H": 14,
+    "G": 13,
+    "F": 15
+   }
+  },
+  {
+   "when": "2026-07-23T15:00:00",
+   "theatre": "Warrington IMAX Laser",
+   "fmt": "IMAX",
+   "good": 63,
+   "rows": {
+    "O": 3,
+    "N": 12,
+    "M": 10,
+    "L": 6,
+    "K": 5,
+    "J": 4,
+    "I": 6,
+    "H": 1,
+    "G": 7,
+    "F": 9
+   }
+  },
+  {
+   "when": "2026-07-23T19:00:00",
+   "theatre": "Warrington IMAX Laser",
+   "fmt": "IMAX",
+   "good": 3,
+   "rows": {
+    "F": 3
+   }
+  },
+  {
+   "when": "2026-07-23T23:00:00",
+   "theatre": "Warrington IMAX Laser",
+   "fmt": "IMAX",
+   "good": 141,
+   "rows": {
+    "O": 5,
+    "N": 13,
+    "M": 14,
+    "L": 13,
+    "K": 14,
+    "J": 15,
+    "I": 10,
+    "H": 17,
+    "G": 20,
+    "F": 20
+   }
+  },
+  {
+   "when": "2026-07-24T11:00:00",
+   "theatre": "Warrington IMAX Laser",
+   "fmt": "IMAX",
+   "good": 92,
+   "rows": {
+    "O": 5,
+    "N": 11,
+    "M": 13,
+    "L": 8,
+    "K": 10,
+    "J": 10,
+    "I": 7,
+    "H": 10,
+    "G": 14,
+    "F": 4
+   }
+  },
+  {
+   "when": "2026-07-24T15:00:00",
+   "theatre": "Warrington IMAX Laser",
+   "fmt": "IMAX",
+   "good": 31,
+   "rows": {
+    "N": 3,
+    "M": 2,
+    "L": 7,
+    "K": 4,
+    "J": 2,
+    "I": 2,
+    "H": 6,
+    "G": 4,
+    "F": 1
+   }
+  },
+  {
+   "when": "2026-07-24T19:00:00",
+   "theatre": "Warrington IMAX Laser",
+   "fmt": "IMAX",
+   "good": 7,
+   "rows": {
+    "O": 1,
+    "N": 1,
+    "I": 2,
+    "H": 1,
+    "G": 1,
+    "F": 1
+   }
+  },
+  {
+   "when": "2026-07-24T23:00:00",
+   "theatre": "Warrington IMAX Laser",
+   "fmt": "IMAX",
+   "good": 146,
+   "rows": {
+    "O": 7,
+    "N": 15,
+    "M": 15,
+    "L": 14,
+    "K": 12,
+    "J": 13,
+    "I": 17,
+    "H": 13,
+    "G": 20,
+    "F": 20
+   }
+  },
+  {
+   "when": "2026-07-25T11:00:00",
+   "theatre": "Warrington IMAX Laser",
+   "fmt": "IMAX",
+   "good": 5,
+   "rows": {
+    "J": 1,
+    "I": 1,
+    "H": 1,
+    "F": 2
+   }
+  },
+  {
+   "when": "2026-07-25T15:00:00",
+   "theatre": "Warrington IMAX Laser",
+   "fmt": "IMAX",
+   "good": 5,
+   "rows": {
+    "N": 3,
+    "J": 1,
+    "H": 1
+   }
+  },
+  {
+   "when": "2026-07-25T19:00:00",
+   "theatre": "Warrington IMAX Laser",
+   "fmt": "IMAX",
+   "good": 9,
+   "rows": {
+    "O": 2,
+    "N": 1,
+    "M": 1,
+    "K": 1,
+    "I": 1,
+    "H": 1,
+    "F": 2
+   }
+  },
+  {
+   "when": "2026-07-25T23:00:00",
+   "theatre": "Warrington IMAX Laser",
+   "fmt": "IMAX",
+   "good": 150,
+   "rows": {
+    "O": 4,
+    "N": 17,
+    "M": 10,
+    "L": 16,
+    "K": 18,
+    "J": 12,
+    "I": 18,
+    "H": 16,
+    "G": 17,
+    "F": 22
+   }
+  },
+  {
+   "when": "2026-07-26T11:00:00",
+   "theatre": "Warrington IMAX Laser",
+   "fmt": "IMAX",
+   "good": 3,
+   "rows": {
+    "J": 1,
+    "I": 1,
+    "G": 1
+   }
+  },
+  {
+   "when": "2026-07-26T15:00:00",
+   "theatre": "Warrington IMAX Laser",
+   "fmt": "IMAX",
+   "good": 5,
+   "rows": {
+    "N": 2,
+    "G": 2,
+    "F": 1
+   }
+  },
+  {
+   "when": "2026-07-26T19:00:00",
+   "theatre": "Warrington IMAX Laser",
+   "fmt": "IMAX",
+   "good": 18,
+   "rows": {
+    "O": 1,
+    "N": 3,
+    "M": 1,
+    "J": 1,
+    "H": 1,
+    "G": 4,
+    "F": 7
+   }
+  },
+  {
+   "when": "2026-07-26T23:00:00",
+   "theatre": "Warrington IMAX Laser",
+   "fmt": "IMAX",
+   "good": 195,
+   "rows": {
+    "O": 7,
+    "N": 19,
+    "M": 23,
+    "L": 22,
+    "K": 19,
+    "J": 22,
+    "I": 20,
+    "H": 22,
+    "G": 22,
+    "F": 19
+   }
+  },
+  {
+   "when": "2026-07-27T10:30:00",
+   "theatre": "Warrington IMAX Laser",
+   "fmt": "IMAX",
+   "good": 178,
+   "rows": {
+    "O": 5,
+    "N": 17,
+    "M": 21,
+    "L": 20,
+    "K": 22,
+    "J": 19,
+    "I": 15,
+    "H": 20,
+    "G": 19,
+    "F": 20
+   }
+  },
+  {
+   "when": "2026-07-27T14:30:00",
+   "theatre": "Warrington IMAX Laser",
+   "fmt": "IMAX",
+   "good": 158,
+   "rows": {
+    "O": 7,
+    "N": 16,
+    "M": 18,
+    "L": 15,
+    "K": 16,
+    "J": 14,
+    "I": 14,
+    "H": 20,
+    "G": 20,
+    "F": 18
+   }
+  },
+  {
+   "when": "2026-07-27T18:30:00",
+   "theatre": "Warrington IMAX Laser",
+   "fmt": "IMAX",
+   "good": 74,
+   "rows": {
+    "O": 5,
+    "N": 10,
+    "M": 7,
+    "L": 6,
+    "K": 8,
+    "J": 4,
+    "I": 6,
+    "H": 3,
+    "G": 12,
+    "F": 13
+   }
+  },
+  {
+   "when": "2026-07-27T22:30:00",
+   "theatre": "Warrington IMAX Laser",
+   "fmt": "IMAX",
+   "good": 197,
+   "rows": {
+    "O": 7,
+    "N": 19,
+    "M": 23,
+    "L": 19,
+    "K": 22,
+    "J": 22,
+    "I": 22,
+    "H": 21,
+    "G": 20,
+    "F": 22
+   }
+  },
+  {
+   "when": "2026-07-28T10:30:00",
+   "theatre": "Warrington IMAX Laser",
+   "fmt": "IMAX",
+   "good": 195,
+   "rows": {
+    "O": 7,
+    "N": 19,
+    "M": 23,
+    "L": 22,
+    "K": 21,
+    "J": 19,
+    "I": 18,
+    "H": 22,
+    "G": 22,
+    "F": 22
+   }
+  },
+  {
+   "when": "2026-07-28T14:30:00",
+   "theatre": "Warrington IMAX Laser",
+   "fmt": "IMAX",
+   "good": 159,
+   "rows": {
+    "O": 7,
+    "N": 17,
+    "M": 17,
+    "L": 14,
+    "K": 18,
+    "J": 18,
+    "I": 17,
+    "H": 16,
+    "G": 18,
+    "F": 17
+   }
+  },
+  {
+   "when": "2026-07-28T18:30:00",
+   "theatre": "Warrington IMAX Laser",
+   "fmt": "IMAX",
+   "good": 101,
+   "rows": {
+    "O": 7,
+    "N": 13,
+    "M": 9,
+    "L": 5,
+    "K": 8,
+    "J": 6,
+    "I": 8,
+    "H": 12,
+    "G": 16,
+    "F": 17
+   }
+  },
+  {
+   "when": "2026-07-28T22:30:00",
+   "theatre": "Warrington IMAX Laser",
+   "fmt": "IMAX",
+   "good": 201,
+   "rows": {
+    "O": 7,
+    "N": 19,
+    "M": 23,
+    "L": 22,
+    "K": 22,
+    "J": 22,
+    "I": 20,
+    "H": 22,
+    "G": 22,
+    "F": 22
+   }
+  },
+  {
+   "when": "2026-07-29T10:00:00",
+   "theatre": "Warrington IMAX Laser",
+   "fmt": "IMAX",
+   "good": 201,
+   "rows": {
+    "O": 7,
+    "N": 19,
+    "M": 23,
+    "L": 22,
+    "K": 22,
+    "J": 22,
+    "I": 20,
+    "H": 22,
+    "G": 22,
+    "F": 22
+   }
+  },
+  {
+   "when": "2026-07-29T14:00:00",
+   "theatre": "Warrington IMAX Laser",
+   "fmt": "IMAX",
+   "good": 189,
+   "rows": {
+    "O": 7,
+    "N": 19,
+    "M": 21,
+    "L": 20,
+    "K": 20,
+    "J": 18,
+    "I": 20,
+    "H": 20,
+    "G": 22,
+    "F": 22
+   }
+  }
+ ],
+ "counts": {
+  "good": 27,
+  "shows": 125,
+  "venues": 2,
+  "shows_70mm": 72
+ }
+}

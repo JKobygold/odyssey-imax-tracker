@@ -1,0 +1,13 @@
+{
+  "zip": "19102",
+  "radius_miles": 30,
+  "movie": "odyssey",
+  "movie_display": "The Odyssey",
+  "movie_url": "https://www.regmovies.com/movies/the-odyssey-ho00019072",
+  "format_filter": "imax",
+  "days_ahead": 14,
+  "seat_checks_per_cycle": 40,
+  "extra_theatres": [],
+  "site_url": "https://jkobygold.github.io/odyssey-imax-tracker/",
+  "repo_url": "https://github.com/JKobygold/odyssey-imax-tracker"
+}
