@@ -6,8 +6,8 @@
   "movie_url": "https://www.regmovies.com/movies/the-odyssey-ho00019072",
   "format_filter": "imax",
   "days_ahead": 14,
-  "seat_checks_per_cycle": 40,
-  "extra_theatres": [],
+  "seat_checks_per_cycle": 60,
+  "extra_theatres": ["0297", "0347", "0615", "0652", "0701", "0734", "1010", "1026", "1042", "1346", "1550"],
   "site_url": "https://jkobygold.github.io/odyssey-imax-tracker/",
   "repo_url": "https://github.com/JKobygold/odyssey-imax-tracker"
 }

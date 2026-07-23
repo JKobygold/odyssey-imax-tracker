@@ -5,6 +5,12 @@
 An epic about a man trying to get home. A tracker for people trying to get a
 decent seat.
 
+**If you just want to see the movie: use the link above.** No install, no
+signup. Find your theater, look for the green ✓ shows, book fast. Click
+"🔔 Turn on alerts" and leave the tab open — your browser will ding when good
+seats open up. Everything below this line is for people who want to run their
+own tracker.
+
 Christopher Nolan's *The Odyssey* in IMAX 70mm is playing on a handful of
 screens in the entire country, and every show sells out in minutes — what's
 left is the front row, which is not a seat so much as a chiropractic event.
