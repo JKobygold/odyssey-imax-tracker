@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-25T08:42:58.346406",
+ "updated": "2026-07-25T09:02:17.587757",
  "movie": "The Odyssey",
  "venues": {
   "0347": {
@@ -480,11 +480,9 @@
    "when": "2026-07-26T15:00:00",
    "theatre": "Warrington Stadium 22 & IMAX",
    "fmt": "IMAX",
-   "good": 4,
+   "good": 2,
    "rows": {
-    "N": 2,
-    "G": 1,
-    "F": 1
+    "N": 2
    }
   },
   {
@@ -512,9 +510,9 @@
    "when": "2026-07-26T15:35:00",
    "theatre": "Waterford Lakes Stm 20 & IMAX",
    "fmt": "IMAX",
-   "good": 19,
+   "good": 15,
    "rows": {
-    "T": 3,
+    "T": 1,
     "S": 2,
     "R": 1,
     "Q": 1,
@@ -524,7 +522,7 @@
     "K": 1,
     "J": 1,
     "I": 1,
-    "H": 5
+    "H": 3
    }
   },
   {
@@ -544,11 +542,10 @@
    "when": "2026-07-26T19:00:00",
    "theatre": "Warrington Stadium 22 & IMAX",
    "fmt": "IMAX",
-   "good": 5,
+   "good": 4,
    "rows": {
     "N": 2,
     "M": 1,
-    "H": 1,
     "F": 1
    }
   },
@@ -602,13 +599,13 @@
    "when": "2026-07-26T22:00:00",
    "theatre": "New Roc City Stm 18 IMAX & RPX",
    "fmt": "IMAX",
-   "good": 31,
+   "good": 29,
    "rows": {
     "J": 6,
     "I": 2,
     "G": 8,
     "F": 3,
-    "E": 12
+    "E": 10
    }
   },
   {
@@ -651,10 +648,10 @@
    "when": "2026-07-26T22:55:00",
    "theatre": "Bridgeport Stadium 18 & IMAX",
    "fmt": "IMAX",
-   "good": 26,
+   "good": 24,
    "rows": {
     "P": 2,
-    "O": 10,
+    "O": 8,
     "N": 1,
     "M": 1,
     "L": 3,
@@ -4900,16 +4897,15 @@
    "when": "2026-08-03T15:05:00",
    "theatre": "Bridgeport Stadium 18 & IMAX",
    "fmt": "IMAX",
-   "good": 65,
+   "good": 42,
    "rows": {
     "Q": 9,
     "P": 9,
-    "O": 17,
-    "N": 9,
-    "M": 7,
+    "O": 9,
+    "N": 3,
+    "M": 3,
     "L": 3,
-    "K": 5,
-    "J": 3,
+    "K": 3,
     "I": 3
    }
   },
@@ -4917,10 +4913,10 @@
    "when": "2026-08-03T15:05:00",
    "theatre": "Long Beach Stadium 26 & IMAX",
    "fmt": "IMAX",
-   "good": 69,
+   "good": 68,
    "rows": {
     "H": 7,
-    "G": 14,
+    "G": 13,
     "F": 16,
     "E": 16,
     "D": 16
@@ -4930,11 +4926,11 @@
    "when": "2026-08-03T15:10:00",
    "theatre": "Atlantic Sta Stm 18 IMAX & RPX",
    "fmt": "IMAX",
-   "good": 163,
+   "good": 160,
    "rows": {
     "M": 21,
     "L": 26,
-    "K": 24,
+    "K": 21,
     "J": 22,
     "I": 22,
     "H": 17,
@@ -4948,8 +4944,8 @@
    "fmt": "70mm",
    "good": 4,
    "rows": {
-    "L": 1,
     "J": 1,
+    "I": 1,
     "H": 1,
     "F": 1
    }
@@ -4979,16 +4975,16 @@
    "when": "2026-08-03T18:10:00",
    "theatre": "Warrington Stadium 22 & IMAX",
    "fmt": "IMAX",
-   "good": 178,
+   "good": 168,
    "rows": {
     "O": 7,
     "N": 17,
-    "M": 21,
-    "L": 21,
-    "K": 16,
-    "J": 18,
+    "M": 20,
+    "L": 19,
+    "K": 13,
+    "J": 15,
     "I": 16,
-    "H": 20,
+    "H": 19,
     "G": 20,
     "F": 22
    }
@@ -5013,12 +5009,12 @@
    "when": "2026-08-03T18:15:00",
    "theatre": "New Roc City Stm 18 IMAX & RPX",
    "fmt": "IMAX",
-   "good": 136,
+   "good": 134,
    "rows": {
     "J": 15,
     "I": 27,
     "H": 23,
-    "G": 23,
+    "G": 21,
     "F": 25,
     "E": 23
    }
@@ -5033,9 +5029,9 @@
     "R": 10,
     "Q": 26,
     "P": 22,
-    "O": 21,
+    "O": 18,
     "N": 21,
-    "M": 15,
+    "M": 18,
     "L": 18,
     "K": 21,
     "J": 21,
@@ -5047,15 +5043,14 @@
    "when": "2026-08-03T19:00:00",
    "theatre": "Bridgeport Stadium 18 & IMAX",
    "fmt": "IMAX",
-   "good": 35,
+   "good": 22,
    "rows": {
-    "Q": 6,
+    "Q": 1,
     "P": 5,
     "O": 7,
-    "N": 3,
-    "L": 3,
+    "L": 1,
     "K": 2,
-    "J": 6,
+    "J": 3,
     "I": 3
    }
   },
@@ -5072,12 +5067,12 @@
    "when": "2026-08-03T19:00:00",
    "theatre": "Long Beach Stadium 26 & IMAX",
    "fmt": "IMAX",
-   "good": 72,
+   "good": 56,
    "rows": {
     "H": 7,
-    "G": 16,
-    "F": 16,
-    "E": 15,
+    "G": 12,
+    "F": 8,
+    "E": 11,
     "D": 18
    }
   },
@@ -5085,15 +5080,15 @@
    "when": "2026-08-03T19:10:00",
    "theatre": "Atlantic Sta Stm 18 IMAX & RPX",
    "fmt": "IMAX",
-   "good": 119,
+   "good": 103,
    "rows": {
     "M": 19,
-    "L": 22,
-    "K": 15,
-    "J": 12,
-    "I": 11,
-    "H": 13,
-    "G": 14,
+    "L": 17,
+    "K": 13,
+    "J": 10,
+    "I": 9,
+    "H": 11,
+    "G": 11,
     "F": 13
    }
   },
