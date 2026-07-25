@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-25T18:18:39.337048",
+ "updated": "2026-07-25T18:37:53.990041",
  "movie": "The Odyssey",
  "venues": {
   "0347": {
@@ -88,15 +88,6 @@
   }
  },
  "good_now": [
-  {
-   "when": "2026-07-25T18:30:00",
-   "theatre": "Downingtown Stadium 16 & IMAX",
-   "fmt": "IMAX",
-   "good": 1,
-   "rows": {
-    "M": 1
-   }
-  },
   {
    "when": "2026-07-25T19:00:00",
    "theatre": "Colorado Mills 16 IMAX & RPX",
@@ -780,30 +771,29 @@
    "when": "2026-07-27T15:35:00",
    "theatre": "Waterford Lakes Stm 20 & IMAX",
    "fmt": "IMAX",
-   "good": 198,
+   "good": 186,
    "rows": {
-    "T": 16,
+    "T": 14,
     "S": 12,
     "R": 16,
     "Q": 15,
-    "P": 14,
+    "P": 12,
     "O": 13,
-    "N": 15,
+    "N": 11,
     "M": 10,
     "L": 8,
     "K": 19,
-    "J": 19,
+    "J": 18,
     "I": 20,
-    "H": 21
+    "H": 18
    }
   },
   {
    "when": "2026-07-27T18:00:00",
    "theatre": "New Roc City Stm 18 IMAX & RPX",
    "fmt": "IMAX",
-   "good": 3,
+   "good": 2,
    "rows": {
-    "I": 1,
     "E": 2
    }
   },
@@ -849,24 +839,21 @@
    "when": "2026-07-27T19:00:00",
    "theatre": "Atlantic Sta Stm 18 IMAX & RPX",
    "fmt": "IMAX",
-   "good": 4,
+   "good": 2,
    "rows": {
     "M": 1,
-    "L": 1,
-    "K": 1,
-    "F": 1
+    "L": 1
    }
   },
   {
    "when": "2026-07-27T19:00:00",
    "theatre": "Colorado Mills 16 IMAX & RPX",
    "fmt": "IMAX",
-   "good": 38,
+   "good": 32,
    "rows": {
     "S": 2,
     "R": 2,
     "Q": 1,
-    "P": 2,
     "O": 5,
     "N": 3,
     "M": 2,
@@ -874,7 +861,7 @@
     "K": 1,
     "J": 2,
     "I": 4,
-    "H": 13
+    "H": 9
    }
   },
   {
@@ -932,7 +919,7 @@
    "when": "2026-07-27T22:30:00",
    "theatre": "Warrington Stadium 22 & IMAX",
    "fmt": "IMAX",
-   "good": 186,
+   "good": 181,
    "rows": {
     "O": 7,
     "N": 19,
@@ -940,7 +927,7 @@
     "L": 19,
     "K": 19,
     "J": 18,
-    "I": 20,
+    "I": 15,
     "H": 21,
     "G": 20,
     "F": 20
@@ -950,7 +937,7 @@
    "when": "2026-07-27T22:45:00",
    "theatre": "Colorado Mills 16 IMAX & RPX",
    "fmt": "IMAX",
-   "good": 236,
+   "good": 234,
    "rows": {
     "S": 10,
     "R": 10,
@@ -959,7 +946,7 @@
     "O": 21,
     "N": 21,
     "M": 20,
-    "L": 21,
+    "L": 19,
     "K": 21,
     "J": 21,
     "I": 14,
@@ -1000,13 +987,13 @@
    "when": "2026-07-27T22:55:00",
    "theatre": "Atlantic Sta Stm 18 IMAX & RPX",
    "fmt": "IMAX",
-   "good": 150,
+   "good": 146,
    "rows": {
     "M": 19,
     "L": 22,
     "K": 17,
-    "J": 19,
-    "I": 22,
+    "J": 17,
+    "I": 20,
     "H": 16,
     "G": 22,
     "F": 13
@@ -3900,30 +3887,48 @@
    }
   },
   {
+   "when": "2026-08-02T10:40:00",
+   "theatre": "Colorado Mills 16 IMAX & RPX",
+   "fmt": "IMAX",
+   "good": 199,
+   "rows": {
+    "S": 6,
+    "R": 10,
+    "Q": 21,
+    "P": 26,
+    "O": 21,
+    "N": 16,
+    "M": 16,
+    "L": 16,
+    "K": 17,
+    "J": 17,
+    "I": 12,
+    "H": 21
+   }
+  },
+  {
    "when": "2026-08-02T11:10:00",
    "theatre": "Long Beach Stadium 26 & IMAX",
    "fmt": "IMAX",
-   "good": 23,
+   "good": 17,
    "rows": {
     "H": 7,
-    "G": 5,
+    "G": 3,
     "F": 1,
     "E": 4,
-    "D": 6
+    "D": 2
    }
   },
   {
    "when": "2026-08-02T11:10:00",
    "theatre": "Atlantic Sta Stm 18 IMAX & RPX",
    "fmt": "IMAX",
-   "good": 28,
+   "good": 13,
    "rows": {
     "M": 2,
-    "L": 4,
-    "K": 4,
-    "I": 4,
+    "L": 2,
+    "K": 1,
     "H": 3,
-    "G": 6,
     "F": 5
    }
   },
@@ -3931,9 +3936,8 @@
    "when": "2026-08-02T11:15:00",
    "theatre": "Bridgeport Stadium 18 & IMAX",
    "fmt": "IMAX",
-   "good": 7,
+   "good": 5,
    "rows": {
-    "Q": 2,
     "P": 1,
     "O": 1,
     "M": 2,
@@ -3944,13 +3948,13 @@
    "when": "2026-08-02T11:25:00",
    "theatre": "Downingtown Stadium 16 & IMAX",
    "fmt": "IMAX",
-   "good": 125,
+   "good": 112,
    "rows": {
-    "M": 19,
-    "L": 19,
-    "K": 19,
+    "M": 13,
+    "L": 17,
+    "K": 17,
     "J": 12,
-    "I": 15,
+    "I": 12,
     "H": 14,
     "G": 14,
     "F": 13
@@ -3960,15 +3964,15 @@
    "when": "2026-08-02T11:40:00",
    "theatre": "Waterford Lakes Stm 20 & IMAX",
    "fmt": "IMAX",
-   "good": 226,
+   "good": 219,
    "rows": {
     "T": 16,
     "S": 14,
     "R": 15,
     "Q": 20,
     "P": 15,
-    "O": 20,
-    "N": 19,
+    "O": 15,
+    "N": 17,
     "M": 11,
     "L": 10,
     "K": 20,
@@ -3981,31 +3985,31 @@
    "when": "2026-08-02T14:10:00",
    "theatre": "Warrington Stadium 22 & IMAX",
    "fmt": "IMAX",
-   "good": 113,
+   "good": 81,
    "rows": {
     "O": 7,
     "N": 8,
-    "M": 19,
-    "L": 10,
-    "K": 6,
-    "J": 6,
-    "I": 10,
-    "H": 14,
-    "G": 15,
-    "F": 18
+    "M": 17,
+    "L": 6,
+    "K": 2,
+    "J": 4,
+    "I": 7,
+    "H": 11,
+    "G": 7,
+    "F": 12
    }
   },
   {
    "when": "2026-08-02T14:15:00",
    "theatre": "New Roc City Stm 18 IMAX & RPX",
    "fmt": "IMAX",
-   "good": 66,
+   "good": 60,
    "rows": {
     "J": 9,
     "I": 8,
-    "H": 11,
+    "H": 8,
     "G": 14,
-    "F": 11,
+    "F": 8,
     "E": 13
    }
   },
@@ -4013,12 +4017,12 @@
    "when": "2026-08-02T14:40:00",
    "theatre": "Colorado Mills 16 IMAX & RPX",
    "fmt": "IMAX",
-   "good": 164,
+   "good": 158,
    "rows": {
-    "S": 10,
+    "S": 6,
     "R": 10,
     "Q": 22,
-    "P": 20,
+    "P": 18,
     "O": 14,
     "N": 14,
     "M": 14,
@@ -4033,16 +4037,16 @@
    "when": "2026-08-02T15:05:00",
    "theatre": "Downingtown Stadium 16 & IMAX",
    "fmt": "IMAX",
-   "good": 96,
+   "good": 87,
    "rows": {
     "M": 16,
     "L": 17,
     "K": 17,
     "J": 10,
-    "I": 8,
+    "I": 3,
     "H": 10,
-    "G": 7,
-    "F": 11
+    "G": 5,
+    "F": 9
    }
   },
   {
@@ -4060,10 +4064,10 @@
    "when": "2026-08-02T15:05:00",
    "theatre": "Long Beach Stadium 26 & IMAX",
    "fmt": "IMAX",
-   "good": 12,
+   "good": 5,
    "rows": {
-    "H": 7,
-    "F": 2,
+    "H": 1,
+    "F": 1,
     "E": 1,
     "D": 2
    }
@@ -4072,13 +4076,12 @@
    "when": "2026-08-02T15:10:00",
    "theatre": "Atlantic Sta Stm 18 IMAX & RPX",
    "fmt": "IMAX",
-   "good": 11,
+   "good": 7,
    "rows": {
-    "K": 2,
     "J": 1,
     "I": 1,
     "H": 1,
-    "G": 5,
+    "G": 3,
     "F": 1
    }
   },
@@ -4086,20 +4089,20 @@
    "when": "2026-08-02T15:35:00",
    "theatre": "Waterford Lakes Stm 20 & IMAX",
    "fmt": "IMAX",
-   "good": 221,
+   "good": 202,
    "rows": {
     "T": 16,
-    "S": 14,
+    "S": 12,
     "R": 18,
-    "Q": 16,
-    "P": 19,
-    "O": 19,
-    "N": 16,
+    "Q": 14,
+    "P": 17,
+    "O": 13,
+    "N": 13,
     "M": 13,
     "L": 6,
     "K": 18,
     "J": 22,
-    "I": 22,
+    "I": 18,
     "H": 22
    }
   },
@@ -7001,7 +7004,7 @@
  ],
  "counts": {
   "good": 453,
-  "shows": 810,
+  "shows": 809,
   "venues": 14,
   "shows_70mm": 418
  }
