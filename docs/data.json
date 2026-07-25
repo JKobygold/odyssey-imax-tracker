@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-25T07:01:54.186112",
+ "updated": "2026-07-25T07:45:08.796093",
  "movie": "The Odyssey",
  "venues": {
   "0347": {
@@ -88,33 +88,6 @@
   }
  },
  "good_now": [
-  {
-   "when": "2026-07-25T07:20:00",
-   "theatre": "Long Beach Stadium 26 & IMAX",
-   "fmt": "IMAX",
-   "good": 4,
-   "rows": {
-    "H": 1,
-    "F": 2,
-    "D": 1
-   }
-  },
-  {
-   "when": "2026-07-25T07:30:00",
-   "theatre": "Downingtown Stadium 16 & IMAX",
-   "fmt": "IMAX",
-   "good": 63,
-   "rows": {
-    "M": 14,
-    "L": 14,
-    "K": 9,
-    "J": 4,
-    "I": 4,
-    "H": 7,
-    "G": 7,
-    "F": 4
-   }
-  },
   {
    "when": "2026-07-25T08:00:00",
    "theatre": "Waterford Lakes Stm 20 & IMAX",
@@ -7004,9 +6977,9 @@
   }
  ],
  "counts": {
-  "good": 450,
-  "shows": 845,
+  "good": 448,
+  "shows": 840,
   "venues": 14,
-  "shows_70mm": 432
+  "shows_70mm": 430
  }
 }
