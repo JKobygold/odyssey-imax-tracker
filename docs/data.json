@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-26T10:14:59.400158",
+ "updated": "2026-07-26T11:27:43.806250",
  "movie": "The Odyssey",
  "venues": {
   "0347": {
@@ -88,17 +88,6 @@
   }
  },
  "good_now": [
-  {
-   "when": "2026-07-26T11:10:00",
-   "theatre": "Downingtown Stadium 16 & IMAX",
-   "fmt": "IMAX",
-   "good": 3,
-   "rows": {
-    "J": 1,
-    "I": 1,
-    "H": 1
-   }
-  },
   {
    "when": "2026-07-26T11:40:00",
    "theatre": "Waterford Lakes Stm 20 & IMAX",
@@ -896,15 +885,15 @@
    "when": "2026-07-28T11:10:00",
    "theatre": "Atlantic Sta Stm 18 IMAX & RPX",
    "fmt": "IMAX",
-   "good": 106,
+   "good": 98,
    "rows": {
-    "M": 16,
-    "L": 20,
+    "M": 15,
+    "L": 18,
     "K": 14,
     "J": 13,
-    "I": 9,
-    "H": 10,
-    "G": 11,
+    "I": 8,
+    "H": 8,
+    "G": 9,
     "F": 13
    }
   },
@@ -912,7 +901,7 @@
    "when": "2026-07-28T11:40:00",
    "theatre": "Waterford Lakes Stm 20 & IMAX",
    "fmt": "IMAX",
-   "good": 213,
+   "good": 208,
    "rows": {
     "T": 16,
     "S": 14,
@@ -920,10 +909,10 @@
     "Q": 18,
     "P": 17,
     "O": 14,
-    "N": 17,
+    "N": 15,
     "M": 10,
     "L": 8,
-    "K": 20,
+    "K": 17,
     "J": 22,
     "I": 22,
     "H": 21
@@ -947,17 +936,17 @@
    "when": "2026-07-28T14:30:00",
    "theatre": "Warrington Stadium 22 & IMAX",
    "fmt": "IMAX",
-   "good": 120,
+   "good": 116,
    "rows": {
     "O": 7,
     "N": 13,
     "M": 17,
     "L": 9,
-    "K": 12,
+    "K": 10,
     "J": 12,
     "I": 12,
     "H": 9,
-    "G": 14,
+    "G": 12,
     "F": 15
    }
   },
@@ -1022,9 +1011,9 @@
    "when": "2026-07-28T15:05:00",
    "theatre": "Atlantic Sta Stm 18 IMAX & RPX",
    "fmt": "IMAX",
-   "good": 59,
+   "good": 57,
    "rows": {
-    "M": 12,
+    "M": 10,
     "L": 9,
     "K": 6,
     "J": 6,
@@ -1038,13 +1027,13 @@
    "when": "2026-07-28T15:35:00",
    "theatre": "Waterford Lakes Stm 20 & IMAX",
    "fmt": "IMAX",
-   "good": 172,
+   "good": 170,
    "rows": {
     "T": 16,
     "S": 14,
     "R": 10,
     "Q": 13,
-    "P": 14,
+    "P": 12,
     "O": 11,
     "N": 12,
     "M": 9,
@@ -1059,11 +1048,10 @@
    "when": "2026-07-28T18:00:00",
    "theatre": "New Roc City Stm 18 IMAX & RPX",
    "fmt": "IMAX",
-   "good": 7,
+   "good": 5,
    "rows": {
     "J": 2,
-    "I": 2,
-    "H": 1,
+    "I": 1,
     "E": 2
    }
   },
@@ -1071,12 +1059,12 @@
    "when": "2026-07-28T18:30:00",
    "theatre": "Warrington Stadium 22 & IMAX",
    "fmt": "IMAX",
-   "good": 16,
+   "good": 15,
    "rows": {
     "O": 1,
     "N": 3,
     "M": 1,
-    "L": 3,
+    "L": 2,
     "K": 2,
     "J": 1,
     "I": 1,
@@ -1113,7 +1101,7 @@
    "fmt": "IMAX",
    "good": 37,
    "rows": {
-    "S": 2,
+    "S": 4,
     "R": 4,
     "Q": 5,
     "P": 2,
@@ -1123,7 +1111,7 @@
     "L": 1,
     "K": 2,
     "J": 1,
-    "I": 3,
+    "I": 1,
     "H": 13
    }
   },
@@ -1131,20 +1119,20 @@
    "when": "2026-07-28T19:30:00",
    "theatre": "Waterford Lakes Stm 20 & IMAX",
    "fmt": "IMAX",
-   "good": 84,
+   "good": 76,
    "rows": {
     "T": 9,
     "S": 9,
     "R": 4,
-    "Q": 6,
+    "Q": 4,
     "P": 8,
     "O": 4,
     "N": 5,
-    "L": 4,
+    "L": 2,
     "K": 4,
-    "J": 9,
+    "J": 6,
     "I": 12,
-    "H": 10
+    "H": 9
    }
   },
   {
@@ -1165,13 +1153,13 @@
    "when": "2026-07-28T22:10:00",
    "theatre": "Downingtown Stadium 16 & IMAX",
    "fmt": "IMAX",
-   "good": 130,
+   "good": 127,
    "rows": {
     "M": 20,
     "L": 19,
     "K": 17,
     "J": 14,
-    "I": 17,
+    "I": 14,
     "H": 15,
     "G": 14,
     "F": 14
@@ -6383,13 +6371,13 @@
    "when": "2026-08-06T18:10:00",
    "theatre": "Downingtown Stadium 16 & IMAX",
    "fmt": "IMAX",
-   "good": 118,
+   "good": 99,
    "rows": {
     "M": 20,
-    "L": 14,
-    "K": 17,
-    "J": 12,
-    "I": 15,
+    "L": 11,
+    "K": 9,
+    "J": 8,
+    "I": 11,
     "H": 11,
     "G": 13,
     "F": 16
@@ -6399,13 +6387,13 @@
    "when": "2026-08-06T18:15:00",
    "theatre": "New Roc City Stm 18 IMAX & RPX",
    "fmt": "IMAX",
-   "good": 118,
+   "good": 113,
    "rows": {
-    "J": 17,
+    "J": 14,
     "I": 18,
     "H": 22,
     "G": 18,
-    "F": 23,
+    "F": 21,
     "E": 20
    }
   },
@@ -6433,11 +6421,11 @@
    "when": "2026-08-06T18:35:00",
    "theatre": "Atlantic Sta Stm 18 IMAX & RPX",
    "fmt": "70mm",
-   "good": 137,
+   "good": 133,
    "rows": {
     "N": 16,
-    "M": 21,
-    "L": 19,
+    "M": 19,
+    "L": 17,
     "K": 15,
     "I": 19,
     "H": 19,
@@ -6459,10 +6447,10 @@
    "when": "2026-08-06T21:50:00",
    "theatre": "Downingtown Stadium 16 & IMAX",
    "fmt": "IMAX",
-   "good": 145,
+   "good": 143,
    "rows": {
     "M": 22,
-    "L": 19,
+    "L": 17,
     "K": 19,
     "J": 17,
     "I": 17,
@@ -6526,24 +6514,22 @@
    "when": "2026-08-06T22:45:00",
    "theatre": "Ontario Palace 22 IMAX & RPX",
    "fmt": "70mm",
-   "good": 34,
+   "good": 15,
    "rows": {
-    "M": 1,
-    "L": 3,
-    "K": 3,
-    "J": 4,
-    "H": 7,
+    "L": 1,
+    "K": 1,
+    "J": 1,
+    "H": 3,
     "G": 3,
-    "F": 13
+    "F": 6
    }
   },
   {
    "when": "2026-08-06T23:00:00",
    "theatre": "Irvine Spectrum 20 IMAX & RPX",
    "fmt": "70mm",
-   "good": 4,
+   "good": 2,
    "rows": {
-    "G": 2,
     "E": 2
    }
   },
@@ -6551,15 +6537,13 @@
    "when": "2026-08-06T23:05:00",
    "theatre": "Regal Opry Mills 4DX & IMAX",
    "fmt": "70mm",
-   "good": 75,
+   "good": 49,
    "rows": {
-    "K": 2,
-    "J": 6,
-    "I": 10,
-    "H": 10,
-    "G": 12,
-    "F": 9,
-    "E": 26
+    "I": 6,
+    "H": 8,
+    "G": 10,
+    "F": 7,
+    "E": 18
    }
   },
   {
@@ -6576,14 +6560,14 @@
    "when": "2026-08-07T03:15:00",
    "theatre": "Regal Mall of Georgia IMAX",
    "fmt": "70mm",
-   "good": 154,
+   "good": 107,
    "rows": {
-    "I": 18,
-    "H": 30,
-    "G": 24,
-    "F": 28,
-    "E": 26,
-    "D": 28
+    "I": 10,
+    "H": 20,
+    "G": 15,
+    "F": 19,
+    "E": 17,
+    "D": 26
    }
   },
   {
@@ -6723,9 +6707,9 @@
   }
  ],
  "counts": {
-  "good": 433,
-  "shows": 794,
+  "good": 432,
+  "shows": 784,
   "venues": 14,
-  "shows_70mm": 423
+  "shows_70mm": 419
  }
 }
