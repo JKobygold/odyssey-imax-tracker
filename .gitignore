@@ -5,3 +5,7 @@ state.json
 status.txt
 alerts.log
 theatres_cache.json
+
+# Generated dashboard — build artifact, published to the 'live' deploy branch,
+# not tracked on main (see run.sh).
+docs/
