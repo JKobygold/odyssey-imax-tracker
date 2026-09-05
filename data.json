@@ -1,0 +1,4014 @@
+{
+ "updated": "2026-09-05T17:34:23.835209",
+ "movie": "The Odyssey",
+ "venues": {
+  "0347": {
+   "name": "Hacienda Stadium 20 IMAX & RPX",
+   "city": "Dublin",
+   "state": "CA",
+   "slug": "hacienda-stadium-20-imax-rpx-0347"
+  },
+  "1010": {
+   "name": "Irvine Spectrum 20 IMAX & RPX",
+   "city": "Irvine",
+   "state": "CA",
+   "slug": "irvine-spectrum-20-imax-rpx-1010"
+  },
+  "1026": {
+   "name": "Ontario Palace 22 IMAX & RPX",
+   "city": "Ontario",
+   "state": "CA",
+   "slug": "ontario-palace-22-imax-rpx-1026"
+  },
+  "0701": {
+   "name": "Regal Mall of Georgia IMAX",
+   "city": "Buford",
+   "state": "GA",
+   "slug": "regal-mall-of-georgia-imax-0701"
+  },
+  "1329": {
+   "name": "REG King of Prussia 4DX & IMAX",
+   "city": "King Of Prussia",
+   "state": "PA",
+   "slug": "reg-king-of-prussia-4dx-imax-1329"
+  },
+  "0615": {
+   "name": "Regal Opry Mills 4DX & IMAX",
+   "city": "Nashville",
+   "state": "TN",
+   "slug": "regal-opry-mills-4dx-imax-0615"
+  },
+  "1042": {
+   "name": "Long Beach Stadium 26 & IMAX",
+   "city": "Long Beach",
+   "state": "CA",
+   "slug": "long-beach-stadium-26-imax-1042"
+  },
+  "1550": {
+   "name": "Colorado Mills 16 IMAX & RPX",
+   "city": "Lakewood",
+   "state": "CO",
+   "slug": "colorado-mills-16-imax-rpx-1550"
+  },
+  "0734": {
+   "name": "Waterford Lakes Stm 20 & IMAX",
+   "city": "Orlando",
+   "state": "FL",
+   "slug": "waterford-lakes-stm-20-imax-0734"
+  },
+  "1346": {
+   "name": "Atlantic Sta Stm 18 IMAX & RPX",
+   "city": "Atlanta",
+   "state": "GA",
+   "slug": "atlantic-sta-stm-18-imax-rpx-1346"
+  },
+  "0297": {
+   "name": "New Roc City Stm 18 IMAX & RPX",
+   "city": "New Rochelle",
+   "state": "NY",
+   "slug": "new-roc-city-stm-18-imax-rpx-0297"
+  },
+  "0652": {
+   "name": "Bridgeport Stadium 18 & IMAX",
+   "city": "Tigard",
+   "state": "OR",
+   "slug": "bridgeport-stadium-18-imax-0652"
+  },
+  "0385": {
+   "name": "Downingtown Stadium 16 & IMAX",
+   "city": "Downingtown",
+   "state": "PA",
+   "slug": "downingtown-stadium-16-imax-0385"
+  },
+  "0379": {
+   "name": "Warrington Stadium 22 & IMAX",
+   "city": "Warrington",
+   "state": "PA",
+   "slug": "warrington-stadium-22-imax-0379"
+  }
+ },
+ "good_now": [
+  {
+   "when": "2026-09-05T18:30:00",
+   "theatre": "Colorado Mills 16 IMAX & RPX",
+   "fmt": "IMAX",
+   "good": 194,
+   "rows": {
+    "S": 10,
+    "R": 10,
+    "Q": 24,
+    "P": 22,
+    "O": 19,
+    "N": 17,
+    "M": 18,
+    "L": 10,
+    "K": 16,
+    "J": 12,
+    "I": 12,
+    "H": 24
+   }
+  },
+  {
+   "when": "2026-09-05T18:30:00",
+   "theatre": "Warrington Stadium 22 & IMAX",
+   "fmt": "IMAX",
+   "good": 92,
+   "rows": {
+    "O": 4,
+    "N": 8,
+    "M": 15,
+    "L": 4,
+    "K": 7,
+    "J": 5,
+    "I": 9,
+    "H": 10,
+    "G": 9,
+    "F": 21
+   }
+  },
+  {
+   "when": "2026-09-05T19:00:00",
+   "theatre": "Regal Opry Mills 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 1,
+   "rows": {
+    "E": 1
+   }
+  },
+  {
+   "when": "2026-09-05T20:00:00",
+   "theatre": "Downingtown Stadium 16 & IMAX",
+   "fmt": "IMAX",
+   "good": 95,
+   "rows": {
+    "M": 16,
+    "L": 16,
+    "K": 17,
+    "J": 8,
+    "I": 12,
+    "H": 8,
+    "G": 9,
+    "F": 9
+   }
+  },
+  {
+   "when": "2026-09-05T20:20:00",
+   "theatre": "Long Beach Stadium 26 & IMAX",
+   "fmt": "IMAX",
+   "good": 23,
+   "rows": {
+    "H": 7,
+    "G": 4,
+    "F": 4,
+    "E": 2,
+    "D": 6
+   }
+  },
+  {
+   "when": "2026-09-05T21:10:00",
+   "theatre": "New Roc City Stm 18 IMAX & RPX",
+   "fmt": "IMAX",
+   "good": 115,
+   "rows": {
+    "J": 15,
+    "I": 22,
+    "H": 20,
+    "G": 20,
+    "F": 18,
+    "E": 20
+   }
+  },
+  {
+   "when": "2026-09-05T21:30:00",
+   "theatre": "Atlantic Sta Stm 18 IMAX & RPX",
+   "fmt": "IMAX",
+   "good": 131,
+   "rows": {
+    "M": 18,
+    "L": 26,
+    "K": 17,
+    "J": 12,
+    "I": 12,
+    "H": 16,
+    "G": 17,
+    "F": 13
+   }
+  },
+  {
+   "when": "2026-09-05T22:00:00",
+   "theatre": "Bridgeport Stadium 18 & IMAX",
+   "fmt": "IMAX",
+   "good": 117,
+   "rows": {
+    "Q": 9,
+    "P": 11,
+    "O": 19,
+    "N": 15,
+    "M": 11,
+    "L": 12,
+    "K": 18,
+    "J": 16,
+    "I": 6
+   }
+  },
+  {
+   "when": "2026-09-05T22:15:00",
+   "theatre": "Warrington Stadium 22 & IMAX",
+   "fmt": "IMAX",
+   "good": 194,
+   "rows": {
+    "O": 7,
+    "N": 19,
+    "M": 23,
+    "L": 19,
+    "K": 18,
+    "J": 20,
+    "I": 22,
+    "H": 22,
+    "G": 22,
+    "F": 22
+   }
+  },
+  {
+   "when": "2026-09-05T22:20:00",
+   "theatre": "Colorado Mills 16 IMAX & RPX",
+   "fmt": "IMAX",
+   "good": 232,
+   "rows": {
+    "S": 10,
+    "R": 10,
+    "Q": 26,
+    "P": 26,
+    "O": 21,
+    "N": 21,
+    "M": 20,
+    "L": 19,
+    "K": 19,
+    "J": 21,
+    "I": 14,
+    "H": 25
+   }
+  },
+  {
+   "when": "2026-09-05T22:45:00",
+   "theatre": "Ontario Palace 22 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 3,
+   "rows": {
+    "H": 2,
+    "G": 1
+   }
+  },
+  {
+   "when": "2026-09-05T22:55:00",
+   "theatre": "Waterford Lakes Stm 20 & IMAX",
+   "fmt": "IMAX",
+   "good": 249,
+   "rows": {
+    "T": 14,
+    "S": 14,
+    "R": 18,
+    "Q": 20,
+    "P": 22,
+    "O": 22,
+    "N": 20,
+    "M": 13,
+    "L": 10,
+    "K": 24,
+    "J": 24,
+    "I": 24,
+    "H": 24
+   }
+  },
+  {
+   "when": "2026-09-05T23:00:00",
+   "theatre": "Regal Opry Mills 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 18,
+   "rows": {
+    "I": 3,
+    "H": 1,
+    "G": 2,
+    "F": 1,
+    "E": 11
+   }
+  },
+  {
+   "when": "2026-09-06T10:35:00",
+   "theatre": "Warrington Stadium 22 & IMAX",
+   "fmt": "IMAX",
+   "good": 195,
+   "rows": {
+    "O": 5,
+    "N": 19,
+    "M": 23,
+    "L": 19,
+    "K": 21,
+    "J": 22,
+    "I": 22,
+    "H": 22,
+    "G": 22,
+    "F": 20
+   }
+  },
+  {
+   "when": "2026-09-06T10:50:00",
+   "theatre": "Colorado Mills 16 IMAX & RPX",
+   "fmt": "IMAX",
+   "good": 230,
+   "rows": {
+    "S": 10,
+    "R": 10,
+    "Q": 26,
+    "P": 26,
+    "O": 21,
+    "N": 21,
+    "M": 20,
+    "L": 21,
+    "K": 21,
+    "J": 18,
+    "I": 14,
+    "H": 22
+   }
+  },
+  {
+   "when": "2026-09-06T12:10:00",
+   "theatre": "Downingtown Stadium 16 & IMAX",
+   "fmt": "IMAX",
+   "good": 135,
+   "rows": {
+    "M": 22,
+    "L": 19,
+    "K": 19,
+    "J": 16,
+    "I": 14,
+    "H": 17,
+    "G": 17,
+    "F": 11
+   }
+  },
+  {
+   "when": "2026-09-06T13:15:00",
+   "theatre": "Long Beach Stadium 26 & IMAX",
+   "fmt": "IMAX",
+   "good": 43,
+   "rows": {
+    "H": 5,
+    "G": 4,
+    "F": 12,
+    "E": 9,
+    "D": 13
+   }
+  },
+  {
+   "when": "2026-09-06T13:40:00",
+   "theatre": "New Roc City Stm 18 IMAX & RPX",
+   "fmt": "IMAX",
+   "good": 104,
+   "rows": {
+    "J": 16,
+    "I": 14,
+    "H": 20,
+    "G": 17,
+    "F": 16,
+    "E": 21
+   }
+  },
+  {
+   "when": "2026-09-06T14:30:00",
+   "theatre": "Irvine Spectrum 20 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 3,
+   "rows": {
+    "I": 3
+   }
+  },
+  {
+   "when": "2026-09-06T14:30:00",
+   "theatre": "Warrington Stadium 22 & IMAX",
+   "fmt": "IMAX",
+   "good": 173,
+   "rows": {
+    "O": 7,
+    "N": 16,
+    "M": 14,
+    "L": 22,
+    "K": 20,
+    "J": 22,
+    "I": 19,
+    "H": 18,
+    "G": 13,
+    "F": 22
+   }
+  },
+  {
+   "when": "2026-09-06T14:40:00",
+   "theatre": "Colorado Mills 16 IMAX & RPX",
+   "fmt": "IMAX",
+   "good": 220,
+   "rows": {
+    "S": 10,
+    "R": 10,
+    "Q": 26,
+    "P": 24,
+    "O": 21,
+    "N": 17,
+    "M": 20,
+    "L": 19,
+    "K": 21,
+    "J": 17,
+    "I": 14,
+    "H": 21
+   }
+  },
+  {
+   "when": "2026-09-06T14:50:00",
+   "theatre": "Atlantic Sta Stm 18 IMAX & RPX",
+   "fmt": "IMAX",
+   "good": 104,
+   "rows": {
+    "M": 18,
+    "L": 17,
+    "K": 11,
+    "J": 10,
+    "I": 15,
+    "H": 11,
+    "G": 13,
+    "F": 9
+   }
+  },
+  {
+   "when": "2026-09-06T15:00:00",
+   "theatre": "Bridgeport Stadium 18 & IMAX",
+   "fmt": "IMAX",
+   "good": 24,
+   "rows": {
+    "Q": 2,
+    "P": 7,
+    "O": 3,
+    "N": 1,
+    "M": 1,
+    "L": 1,
+    "K": 4,
+    "J": 1,
+    "I": 4
+   }
+  },
+  {
+   "when": "2026-09-06T15:05:00",
+   "theatre": "Regal Mall of Georgia IMAX",
+   "fmt": "70mm",
+   "good": 1,
+   "rows": {
+    "F": 1
+   }
+  },
+  {
+   "when": "2026-09-06T16:00:00",
+   "theatre": "Downingtown Stadium 16 & IMAX",
+   "fmt": "IMAX",
+   "good": 116,
+   "rows": {
+    "M": 17,
+    "L": 17,
+    "K": 17,
+    "J": 14,
+    "I": 13,
+    "H": 11,
+    "G": 14,
+    "F": 13
+   }
+  },
+  {
+   "when": "2026-09-06T16:00:00",
+   "theatre": "Waterford Lakes Stm 20 & IMAX",
+   "fmt": "IMAX",
+   "good": 223,
+   "rows": {
+    "T": 14,
+    "S": 14,
+    "R": 18,
+    "Q": 22,
+    "P": 22,
+    "O": 20,
+    "N": 16,
+    "M": 13,
+    "L": 10,
+    "K": 19,
+    "J": 19,
+    "I": 20,
+    "H": 16
+   }
+  },
+  {
+   "when": "2026-09-06T18:30:00",
+   "theatre": "Colorado Mills 16 IMAX & RPX",
+   "fmt": "IMAX",
+   "good": 216,
+   "rows": {
+    "S": 8,
+    "R": 10,
+    "Q": 26,
+    "P": 24,
+    "O": 19,
+    "N": 17,
+    "M": 20,
+    "L": 19,
+    "K": 15,
+    "J": 19,
+    "I": 14,
+    "H": 25
+   }
+  },
+  {
+   "when": "2026-09-06T18:30:00",
+   "theatre": "Warrington Stadium 22 & IMAX",
+   "fmt": "IMAX",
+   "good": 194,
+   "rows": {
+    "O": 7,
+    "N": 17,
+    "M": 20,
+    "L": 22,
+    "K": 20,
+    "J": 20,
+    "I": 22,
+    "H": 22,
+    "G": 22,
+    "F": 22
+   }
+  },
+  {
+   "when": "2026-09-06T19:00:00",
+   "theatre": "Regal Opry Mills 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 7,
+   "rows": {
+    "J": 2,
+    "I": 2,
+    "G": 2,
+    "E": 1
+   }
+  },
+  {
+   "when": "2026-09-06T19:00:00",
+   "theatre": "Ontario Palace 22 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 1,
+   "rows": {
+    "M": 1
+   }
+  },
+  {
+   "when": "2026-09-06T20:00:00",
+   "theatre": "Downingtown Stadium 16 & IMAX",
+   "fmt": "IMAX",
+   "good": 142,
+   "rows": {
+    "M": 22,
+    "L": 19,
+    "K": 19,
+    "J": 16,
+    "I": 17,
+    "H": 15,
+    "G": 17,
+    "F": 17
+   }
+  },
+  {
+   "when": "2026-09-06T20:20:00",
+   "theatre": "Long Beach Stadium 26 & IMAX",
+   "fmt": "IMAX",
+   "good": 73,
+   "rows": {
+    "H": 7,
+    "G": 18,
+    "F": 16,
+    "E": 16,
+    "D": 16
+   }
+  },
+  {
+   "when": "2026-09-06T21:10:00",
+   "theatre": "New Roc City Stm 18 IMAX & RPX",
+   "fmt": "IMAX",
+   "good": 145,
+   "rows": {
+    "J": 14,
+    "I": 27,
+    "H": 27,
+    "G": 23,
+    "F": 27,
+    "E": 27
+   }
+  },
+  {
+   "when": "2026-09-06T21:30:00",
+   "theatre": "Atlantic Sta Stm 18 IMAX & RPX",
+   "fmt": "IMAX",
+   "good": 174,
+   "rows": {
+    "M": 21,
+    "L": 26,
+    "K": 24,
+    "J": 22,
+    "I": 22,
+    "H": 22,
+    "G": 24,
+    "F": 13
+   }
+  },
+  {
+   "when": "2026-09-06T22:00:00",
+   "theatre": "Bridgeport Stadium 18 & IMAX",
+   "fmt": "IMAX",
+   "good": 135,
+   "rows": {
+    "Q": 9,
+    "P": 11,
+    "O": 21,
+    "N": 19,
+    "M": 15,
+    "L": 19,
+    "K": 18,
+    "J": 17,
+    "I": 6
+   }
+  },
+  {
+   "when": "2026-09-06T22:15:00",
+   "theatre": "Warrington Stadium 22 & IMAX",
+   "fmt": "IMAX",
+   "good": 203,
+   "rows": {
+    "O": 7,
+    "N": 19,
+    "M": 23,
+    "L": 22,
+    "K": 22,
+    "J": 22,
+    "I": 22,
+    "H": 22,
+    "G": 22,
+    "F": 22
+   }
+  },
+  {
+   "when": "2026-09-06T22:20:00",
+   "theatre": "Colorado Mills 16 IMAX & RPX",
+   "fmt": "IMAX",
+   "good": 236,
+   "rows": {
+    "S": 10,
+    "R": 10,
+    "Q": 26,
+    "P": 26,
+    "O": 21,
+    "N": 21,
+    "M": 20,
+    "L": 21,
+    "K": 21,
+    "J": 21,
+    "I": 14,
+    "H": 25
+   }
+  },
+  {
+   "when": "2026-09-06T22:30:00",
+   "theatre": "Irvine Spectrum 20 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 1,
+   "rows": {
+    "E": 1
+   }
+  },
+  {
+   "when": "2026-09-06T22:45:00",
+   "theatre": "Ontario Palace 22 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 13,
+   "rows": {
+    "M": 3,
+    "L": 1,
+    "J": 1,
+    "H": 1,
+    "G": 1,
+    "F": 6
+   }
+  },
+  {
+   "when": "2026-09-06T22:55:00",
+   "theatre": "Waterford Lakes Stm 20 & IMAX",
+   "fmt": "IMAX",
+   "good": 253,
+   "rows": {
+    "T": 14,
+    "S": 14,
+    "R": 18,
+    "Q": 22,
+    "P": 22,
+    "O": 22,
+    "N": 22,
+    "M": 13,
+    "L": 10,
+    "K": 24,
+    "J": 24,
+    "I": 24,
+    "H": 24
+   }
+  },
+  {
+   "when": "2026-09-06T23:00:00",
+   "theatre": "Regal Opry Mills 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 56,
+   "rows": {
+    "K": 2,
+    "J": 9,
+    "I": 8,
+    "H": 8,
+    "G": 8,
+    "F": 5,
+    "E": 16
+   }
+  },
+  {
+   "when": "2026-09-07T10:35:00",
+   "theatre": "Warrington Stadium 22 & IMAX",
+   "fmt": "IMAX",
+   "good": 200,
+   "rows": {
+    "O": 7,
+    "N": 19,
+    "M": 23,
+    "L": 22,
+    "K": 22,
+    "J": 22,
+    "I": 22,
+    "H": 19,
+    "G": 22,
+    "F": 22
+   }
+  },
+  {
+   "when": "2026-09-07T10:50:00",
+   "theatre": "Colorado Mills 16 IMAX & RPX",
+   "fmt": "IMAX",
+   "good": 230,
+   "rows": {
+    "S": 10,
+    "R": 8,
+    "Q": 26,
+    "P": 26,
+    "O": 21,
+    "N": 21,
+    "M": 20,
+    "L": 21,
+    "K": 21,
+    "J": 21,
+    "I": 14,
+    "H": 21
+   }
+  },
+  {
+   "when": "2026-09-07T11:00:00",
+   "theatre": "Regal Opry Mills 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 3,
+   "rows": {
+    "E": 3
+   }
+  },
+  {
+   "when": "2026-09-07T12:10:00",
+   "theatre": "Downingtown Stadium 16 & IMAX",
+   "fmt": "IMAX",
+   "good": 140,
+   "rows": {
+    "M": 18,
+    "L": 19,
+    "K": 19,
+    "J": 16,
+    "I": 17,
+    "H": 17,
+    "G": 17,
+    "F": 17
+   }
+  },
+  {
+   "when": "2026-09-07T13:15:00",
+   "theatre": "Long Beach Stadium 26 & IMAX",
+   "fmt": "IMAX",
+   "good": 50,
+   "rows": {
+    "H": 7,
+    "G": 6,
+    "F": 10,
+    "E": 13,
+    "D": 14
+   }
+  },
+  {
+   "when": "2026-09-07T13:40:00",
+   "theatre": "New Roc City Stm 18 IMAX & RPX",
+   "fmt": "IMAX",
+   "good": 135,
+   "rows": {
+    "J": 14,
+    "I": 25,
+    "H": 23,
+    "G": 23,
+    "F": 25,
+    "E": 25
+   }
+  },
+  {
+   "when": "2026-09-07T14:05:00",
+   "theatre": "Atlantic Sta Stm 18 IMAX & RPX",
+   "fmt": "IMAX",
+   "good": 110,
+   "rows": {
+    "M": 16,
+    "L": 18,
+    "K": 14,
+    "J": 9,
+    "I": 8,
+    "H": 11,
+    "G": 21,
+    "F": 13
+   }
+  },
+  {
+   "when": "2026-09-07T14:30:00",
+   "theatre": "Warrington Stadium 22 & IMAX",
+   "fmt": "IMAX",
+   "good": 193,
+   "rows": {
+    "O": 7,
+    "N": 19,
+    "M": 23,
+    "L": 22,
+    "K": 20,
+    "J": 20,
+    "I": 20,
+    "H": 22,
+    "G": 18,
+    "F": 22
+   }
+  },
+  {
+   "when": "2026-09-07T14:35:00",
+   "theatre": "Bridgeport Stadium 18 & IMAX",
+   "fmt": "IMAX",
+   "good": 40,
+   "rows": {
+    "Q": 5,
+    "P": 3,
+    "O": 6,
+    "N": 5,
+    "M": 2,
+    "L": 3,
+    "K": 6,
+    "J": 6,
+    "I": 4
+   }
+  },
+  {
+   "when": "2026-09-07T14:40:00",
+   "theatre": "Colorado Mills 16 IMAX & RPX",
+   "fmt": "IMAX",
+   "good": 227,
+   "rows": {
+    "S": 10,
+    "R": 10,
+    "Q": 24,
+    "P": 26,
+    "O": 19,
+    "N": 16,
+    "M": 20,
+    "L": 21,
+    "K": 21,
+    "J": 21,
+    "I": 14,
+    "H": 25
+   }
+  },
+  {
+   "when": "2026-09-07T15:00:00",
+   "theatre": "Regal Opry Mills 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 7,
+   "rows": {
+    "K": 1,
+    "I": 1,
+    "F": 1,
+    "E": 4
+   }
+  },
+  {
+   "when": "2026-09-07T15:00:00",
+   "theatre": "Ontario Palace 22 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 2,
+   "rows": {
+    "M": 1,
+    "L": 1
+   }
+  },
+  {
+   "when": "2026-09-07T16:00:00",
+   "theatre": "Downingtown Stadium 16 & IMAX",
+   "fmt": "IMAX",
+   "good": 133,
+   "rows": {
+    "M": 22,
+    "L": 19,
+    "K": 19,
+    "J": 16,
+    "I": 17,
+    "H": 13,
+    "G": 15,
+    "F": 12
+   }
+  },
+  {
+   "when": "2026-09-07T16:00:00",
+   "theatre": "Waterford Lakes Stm 20 & IMAX",
+   "fmt": "IMAX",
+   "good": 253,
+   "rows": {
+    "T": 14,
+    "S": 14,
+    "R": 18,
+    "Q": 22,
+    "P": 22,
+    "O": 22,
+    "N": 22,
+    "M": 13,
+    "L": 10,
+    "K": 24,
+    "J": 24,
+    "I": 24,
+    "H": 24
+   }
+  },
+  {
+   "when": "2026-09-07T18:30:00",
+   "theatre": "Colorado Mills 16 IMAX & RPX",
+   "fmt": "IMAX",
+   "good": 232,
+   "rows": {
+    "S": 10,
+    "R": 10,
+    "Q": 26,
+    "P": 26,
+    "O": 21,
+    "N": 21,
+    "M": 20,
+    "L": 21,
+    "K": 19,
+    "J": 19,
+    "I": 14,
+    "H": 25
+   }
+  },
+  {
+   "when": "2026-09-07T18:30:00",
+   "theatre": "Warrington Stadium 22 & IMAX",
+   "fmt": "IMAX",
+   "good": 203,
+   "rows": {
+    "O": 7,
+    "N": 19,
+    "M": 23,
+    "L": 22,
+    "K": 22,
+    "J": 22,
+    "I": 22,
+    "H": 22,
+    "G": 22,
+    "F": 22
+   }
+  },
+  {
+   "when": "2026-09-07T19:00:00",
+   "theatre": "Regal Opry Mills 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 12,
+   "rows": {
+    "G": 1,
+    "F": 2,
+    "E": 9
+   }
+  },
+  {
+   "when": "2026-09-07T19:00:00",
+   "theatre": "Ontario Palace 22 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 5,
+   "rows": {
+    "L": 1,
+    "K": 1,
+    "J": 1,
+    "H": 1,
+    "G": 1
+   }
+  },
+  {
+   "when": "2026-09-07T20:00:00",
+   "theatre": "Downingtown Stadium 16 & IMAX",
+   "fmt": "IMAX",
+   "good": 142,
+   "rows": {
+    "M": 22,
+    "L": 19,
+    "K": 17,
+    "J": 16,
+    "I": 17,
+    "H": 17,
+    "G": 17,
+    "F": 17
+   }
+  },
+  {
+   "when": "2026-09-07T20:20:00",
+   "theatre": "Long Beach Stadium 26 & IMAX",
+   "fmt": "IMAX",
+   "good": 78,
+   "rows": {
+    "H": 7,
+    "G": 18,
+    "F": 18,
+    "E": 17,
+    "D": 18
+   }
+  },
+  {
+   "when": "2026-09-07T21:10:00",
+   "theatre": "New Roc City Stm 18 IMAX & RPX",
+   "fmt": "IMAX",
+   "good": 151,
+   "rows": {
+    "J": 16,
+    "I": 27,
+    "H": 27,
+    "G": 27,
+    "F": 27,
+    "E": 27
+   }
+  },
+  {
+   "when": "2026-09-07T21:30:00",
+   "theatre": "Atlantic Sta Stm 18 IMAX & RPX",
+   "fmt": "IMAX",
+   "good": 178,
+   "rows": {
+    "M": 21,
+    "L": 26,
+    "K": 24,
+    "J": 24,
+    "I": 24,
+    "H": 24,
+    "G": 22,
+    "F": 13
+   }
+  },
+  {
+   "when": "2026-09-07T22:00:00",
+   "theatre": "Bridgeport Stadium 18 & IMAX",
+   "fmt": "IMAX",
+   "good": 144,
+   "rows": {
+    "Q": 9,
+    "P": 11,
+    "O": 23,
+    "N": 19,
+    "M": 19,
+    "L": 19,
+    "K": 19,
+    "J": 19,
+    "I": 6
+   }
+  },
+  {
+   "when": "2026-09-07T22:15:00",
+   "theatre": "Warrington Stadium 22 & IMAX",
+   "fmt": "IMAX",
+   "good": 203,
+   "rows": {
+    "O": 7,
+    "N": 19,
+    "M": 23,
+    "L": 22,
+    "K": 22,
+    "J": 22,
+    "I": 22,
+    "H": 22,
+    "G": 22,
+    "F": 22
+   }
+  },
+  {
+   "when": "2026-09-07T22:20:00",
+   "theatre": "Colorado Mills 16 IMAX & RPX",
+   "fmt": "IMAX",
+   "good": 236,
+   "rows": {
+    "S": 10,
+    "R": 10,
+    "Q": 26,
+    "P": 26,
+    "O": 21,
+    "N": 21,
+    "M": 20,
+    "L": 21,
+    "K": 21,
+    "J": 21,
+    "I": 14,
+    "H": 25
+   }
+  },
+  {
+   "when": "2026-09-07T22:45:00",
+   "theatre": "Ontario Palace 22 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 83,
+   "rows": {
+    "M": 5,
+    "L": 7,
+    "K": 10,
+    "J": 5,
+    "I": 3,
+    "H": 18,
+    "G": 18,
+    "F": 17
+   }
+  },
+  {
+   "when": "2026-09-07T22:55:00",
+   "theatre": "Regal Mall of Georgia IMAX",
+   "fmt": "70mm",
+   "good": 4,
+   "rows": {
+    "D": 4
+   }
+  },
+  {
+   "when": "2026-09-07T22:55:00",
+   "theatre": "Waterford Lakes Stm 20 & IMAX",
+   "fmt": "IMAX",
+   "good": 253,
+   "rows": {
+    "T": 14,
+    "S": 14,
+    "R": 18,
+    "Q": 22,
+    "P": 22,
+    "O": 22,
+    "N": 22,
+    "M": 13,
+    "L": 10,
+    "K": 24,
+    "J": 24,
+    "I": 24,
+    "H": 24
+   }
+  },
+  {
+   "when": "2026-09-07T23:00:00",
+   "theatre": "Regal Opry Mills 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 156,
+   "rows": {
+    "K": 20,
+    "J": 27,
+    "I": 23,
+    "H": 24,
+    "G": 21,
+    "F": 12,
+    "E": 29
+   }
+  },
+  {
+   "when": "2026-09-08T10:10:00",
+   "theatre": "Hacienda Stadium 20 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 1,
+   "rows": {
+    "D": 1
+   }
+  },
+  {
+   "when": "2026-09-08T10:30:00",
+   "theatre": "Irvine Spectrum 20 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 4,
+   "rows": {
+    "F": 1,
+    "E": 3
+   }
+  },
+  {
+   "when": "2026-09-08T10:35:00",
+   "theatre": "Warrington Stadium 22 & IMAX",
+   "fmt": "IMAX",
+   "good": 203,
+   "rows": {
+    "O": 7,
+    "N": 19,
+    "M": 23,
+    "L": 22,
+    "K": 22,
+    "J": 22,
+    "I": 22,
+    "H": 22,
+    "G": 22,
+    "F": 22
+   }
+  },
+  {
+   "when": "2026-09-08T11:00:00",
+   "theatre": "Regal Opry Mills 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 111,
+   "rows": {
+    "K": 13,
+    "J": 17,
+    "I": 19,
+    "H": 13,
+    "G": 12,
+    "F": 9,
+    "E": 28
+   }
+  },
+  {
+   "when": "2026-09-08T11:00:00",
+   "theatre": "Ontario Palace 22 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 67,
+   "rows": {
+    "M": 3,
+    "L": 5,
+    "K": 6,
+    "J": 4,
+    "I": 1,
+    "H": 15,
+    "G": 16,
+    "F": 17
+   }
+  },
+  {
+   "when": "2026-09-08T11:10:00",
+   "theatre": "Regal Mall of Georgia IMAX",
+   "fmt": "70mm",
+   "good": 2,
+   "rows": {
+    "F": 1,
+    "D": 1
+   }
+  },
+  {
+   "when": "2026-09-08T12:10:00",
+   "theatre": "Downingtown Stadium 16 & IMAX",
+   "fmt": "IMAX",
+   "good": 144,
+   "rows": {
+    "M": 22,
+    "L": 19,
+    "K": 19,
+    "J": 16,
+    "I": 17,
+    "H": 17,
+    "G": 17,
+    "F": 17
+   }
+  },
+  {
+   "when": "2026-09-08T13:25:00",
+   "theatre": "Long Beach Stadium 26 & IMAX",
+   "fmt": "IMAX",
+   "good": 76,
+   "rows": {
+    "H": 7,
+    "G": 18,
+    "F": 16,
+    "E": 17,
+    "D": 18
+   }
+  },
+  {
+   "when": "2026-09-08T13:40:00",
+   "theatre": "New Roc City Stm 18 IMAX & RPX",
+   "fmt": "IMAX",
+   "good": 150,
+   "rows": {
+    "J": 16,
+    "I": 27,
+    "H": 26,
+    "G": 27,
+    "F": 27,
+    "E": 27
+   }
+  },
+  {
+   "when": "2026-09-08T13:50:00",
+   "theatre": "Colorado Mills 16 IMAX & RPX",
+   "fmt": "IMAX",
+   "good": 234,
+   "rows": {
+    "S": 10,
+    "R": 10,
+    "Q": 26,
+    "P": 26,
+    "O": 21,
+    "N": 21,
+    "M": 20,
+    "L": 21,
+    "K": 21,
+    "J": 19,
+    "I": 14,
+    "H": 25
+   }
+  },
+  {
+   "when": "2026-09-08T14:05:00",
+   "theatre": "Atlantic Sta Stm 18 IMAX & RPX",
+   "fmt": "IMAX",
+   "good": 175,
+   "rows": {
+    "M": 21,
+    "L": 26,
+    "K": 24,
+    "J": 23,
+    "I": 24,
+    "H": 22,
+    "G": 22,
+    "F": 13
+   }
+  },
+  {
+   "when": "2026-09-08T14:10:00",
+   "theatre": "Hacienda Stadium 20 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 2,
+   "rows": {
+    "E": 2
+   }
+  },
+  {
+   "when": "2026-09-08T14:30:00",
+   "theatre": "Irvine Spectrum 20 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 2,
+   "rows": {
+    "E": 2
+   }
+  },
+  {
+   "when": "2026-09-08T14:30:00",
+   "theatre": "Warrington Stadium 22 & IMAX",
+   "fmt": "IMAX",
+   "good": 201,
+   "rows": {
+    "O": 7,
+    "N": 19,
+    "M": 23,
+    "L": 22,
+    "K": 22,
+    "J": 22,
+    "I": 22,
+    "H": 20,
+    "G": 22,
+    "F": 22
+   }
+  },
+  {
+   "when": "2026-09-08T14:35:00",
+   "theatre": "Bridgeport Stadium 18 & IMAX",
+   "fmt": "IMAX",
+   "good": 135,
+   "rows": {
+    "Q": 9,
+    "P": 11,
+    "O": 23,
+    "N": 19,
+    "M": 18,
+    "L": 17,
+    "K": 17,
+    "J": 15,
+    "I": 6
+   }
+  },
+  {
+   "when": "2026-09-08T15:00:00",
+   "theatre": "Regal Opry Mills 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 97,
+   "rows": {
+    "K": 7,
+    "J": 13,
+    "I": 14,
+    "H": 14,
+    "G": 17,
+    "F": 7,
+    "E": 25
+   }
+  },
+  {
+   "when": "2026-09-08T15:00:00",
+   "theatre": "Ontario Palace 22 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 62,
+   "rows": {
+    "M": 5,
+    "L": 3,
+    "K": 4,
+    "J": 6,
+    "I": 1,
+    "H": 14,
+    "G": 12,
+    "F": 17
+   }
+  },
+  {
+   "when": "2026-09-08T15:05:00",
+   "theatre": "Regal Mall of Georgia IMAX",
+   "fmt": "70mm",
+   "good": 1,
+   "rows": {
+    "E": 1
+   }
+  },
+  {
+   "when": "2026-09-08T16:00:00",
+   "theatre": "Downingtown Stadium 16 & IMAX",
+   "fmt": "IMAX",
+   "good": 142,
+   "rows": {
+    "M": 22,
+    "L": 19,
+    "K": 19,
+    "J": 16,
+    "I": 17,
+    "H": 17,
+    "G": 17,
+    "F": 15
+   }
+  },
+  {
+   "when": "2026-09-08T16:00:00",
+   "theatre": "Waterford Lakes Stm 20 & IMAX",
+   "fmt": "IMAX",
+   "good": 253,
+   "rows": {
+    "T": 14,
+    "S": 14,
+    "R": 18,
+    "Q": 22,
+    "P": 22,
+    "O": 22,
+    "N": 22,
+    "M": 13,
+    "L": 10,
+    "K": 24,
+    "J": 24,
+    "I": 24,
+    "H": 24
+   }
+  },
+  {
+   "when": "2026-09-08T18:00:00",
+   "theatre": "Colorado Mills 16 IMAX & RPX",
+   "fmt": "IMAX",
+   "good": 234,
+   "rows": {
+    "S": 10,
+    "R": 10,
+    "Q": 26,
+    "P": 26,
+    "O": 21,
+    "N": 21,
+    "M": 20,
+    "L": 19,
+    "K": 21,
+    "J": 21,
+    "I": 14,
+    "H": 25
+   }
+  },
+  {
+   "when": "2026-09-08T18:30:00",
+   "theatre": "Warrington Stadium 22 & IMAX",
+   "fmt": "IMAX",
+   "good": 203,
+   "rows": {
+    "O": 7,
+    "N": 19,
+    "M": 23,
+    "L": 22,
+    "K": 22,
+    "J": 22,
+    "I": 22,
+    "H": 22,
+    "G": 22,
+    "F": 22
+   }
+  },
+  {
+   "when": "2026-09-08T19:00:00",
+   "theatre": "Regal Opry Mills 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 36,
+   "rows": {
+    "K": 2,
+    "J": 3,
+    "I": 6,
+    "H": 4,
+    "G": 2,
+    "F": 3,
+    "E": 16
+   }
+  },
+  {
+   "when": "2026-09-08T19:00:00",
+   "theatre": "Regal Mall of Georgia IMAX",
+   "fmt": "70mm",
+   "good": 1,
+   "rows": {
+    "E": 1
+   }
+  },
+  {
+   "when": "2026-09-08T19:00:00",
+   "theatre": "Ontario Palace 22 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 23,
+   "rows": {
+    "M": 1,
+    "L": 1,
+    "K": 1,
+    "I": 1,
+    "H": 4,
+    "G": 8,
+    "F": 7
+   }
+  },
+  {
+   "when": "2026-09-08T20:00:00",
+   "theatre": "Downingtown Stadium 16 & IMAX",
+   "fmt": "IMAX",
+   "good": 144,
+   "rows": {
+    "M": 22,
+    "L": 19,
+    "K": 19,
+    "J": 16,
+    "I": 17,
+    "H": 17,
+    "G": 17,
+    "F": 17
+   }
+  },
+  {
+   "when": "2026-09-08T20:20:00",
+   "theatre": "Long Beach Stadium 26 & IMAX",
+   "fmt": "IMAX",
+   "good": 79,
+   "rows": {
+    "H": 7,
+    "G": 18,
+    "F": 18,
+    "E": 18,
+    "D": 18
+   }
+  },
+  {
+   "when": "2026-09-08T21:10:00",
+   "theatre": "New Roc City Stm 18 IMAX & RPX",
+   "fmt": "IMAX",
+   "good": 151,
+   "rows": {
+    "J": 16,
+    "I": 27,
+    "H": 27,
+    "G": 27,
+    "F": 27,
+    "E": 27
+   }
+  },
+  {
+   "when": "2026-09-08T21:30:00",
+   "theatre": "Atlantic Sta Stm 18 IMAX & RPX",
+   "fmt": "IMAX",
+   "good": 174,
+   "rows": {
+    "M": 21,
+    "L": 26,
+    "K": 24,
+    "J": 24,
+    "I": 18,
+    "H": 24,
+    "G": 24,
+    "F": 13
+   }
+  },
+  {
+   "when": "2026-09-08T22:00:00",
+   "theatre": "Bridgeport Stadium 18 & IMAX",
+   "fmt": "IMAX",
+   "good": 144,
+   "rows": {
+    "Q": 9,
+    "P": 11,
+    "O": 23,
+    "N": 19,
+    "M": 19,
+    "L": 19,
+    "K": 19,
+    "J": 19,
+    "I": 6
+   }
+  },
+  {
+   "when": "2026-09-08T22:00:00",
+   "theatre": "Colorado Mills 16 IMAX & RPX",
+   "fmt": "IMAX",
+   "good": 236,
+   "rows": {
+    "S": 10,
+    "R": 10,
+    "Q": 26,
+    "P": 26,
+    "O": 21,
+    "N": 21,
+    "M": 20,
+    "L": 21,
+    "K": 21,
+    "J": 21,
+    "I": 14,
+    "H": 25
+   }
+  },
+  {
+   "when": "2026-09-08T22:15:00",
+   "theatre": "Warrington Stadium 22 & IMAX",
+   "fmt": "IMAX",
+   "good": 203,
+   "rows": {
+    "O": 7,
+    "N": 19,
+    "M": 23,
+    "L": 22,
+    "K": 22,
+    "J": 22,
+    "I": 22,
+    "H": 22,
+    "G": 22,
+    "F": 22
+   }
+  },
+  {
+   "when": "2026-09-08T22:30:00",
+   "theatre": "Irvine Spectrum 20 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 2,
+   "rows": {
+    "F": 1,
+    "E": 1
+   }
+  },
+  {
+   "when": "2026-09-08T22:45:00",
+   "theatre": "Ontario Palace 22 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 98,
+   "rows": {
+    "M": 6,
+    "L": 10,
+    "K": 12,
+    "J": 6,
+    "I": 4,
+    "H": 21,
+    "G": 15,
+    "F": 24
+   }
+  },
+  {
+   "when": "2026-09-08T22:55:00",
+   "theatre": "Regal Mall of Georgia IMAX",
+   "fmt": "70mm",
+   "good": 5,
+   "rows": {
+    "H": 1,
+    "D": 4
+   }
+  },
+  {
+   "when": "2026-09-08T22:55:00",
+   "theatre": "Waterford Lakes Stm 20 & IMAX",
+   "fmt": "IMAX",
+   "good": 253,
+   "rows": {
+    "T": 14,
+    "S": 14,
+    "R": 18,
+    "Q": 22,
+    "P": 22,
+    "O": 22,
+    "N": 22,
+    "M": 13,
+    "L": 10,
+    "K": 24,
+    "J": 24,
+    "I": 24,
+    "H": 24
+   }
+  },
+  {
+   "when": "2026-09-08T23:00:00",
+   "theatre": "Regal Opry Mills 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 182,
+   "rows": {
+    "K": 18,
+    "J": 27,
+    "I": 32,
+    "H": 25,
+    "G": 30,
+    "F": 20,
+    "E": 30
+   }
+  },
+  {
+   "when": "2026-09-09T10:30:00",
+   "theatre": "Irvine Spectrum 20 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 3,
+   "rows": {
+    "F": 1,
+    "E": 2
+   }
+  },
+  {
+   "when": "2026-09-09T10:35:00",
+   "theatre": "Warrington Stadium 22 & IMAX",
+   "fmt": "IMAX",
+   "good": 203,
+   "rows": {
+    "O": 7,
+    "N": 19,
+    "M": 23,
+    "L": 22,
+    "K": 22,
+    "J": 22,
+    "I": 22,
+    "H": 22,
+    "G": 22,
+    "F": 22
+   }
+  },
+  {
+   "when": "2026-09-09T11:00:00",
+   "theatre": "Regal Opry Mills 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 140,
+   "rows": {
+    "K": 16,
+    "J": 20,
+    "I": 23,
+    "H": 20,
+    "G": 18,
+    "F": 16,
+    "E": 27
+   }
+  },
+  {
+   "when": "2026-09-09T11:00:00",
+   "theatre": "Ontario Palace 22 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 77,
+   "rows": {
+    "M": 5,
+    "L": 9,
+    "K": 9,
+    "J": 6,
+    "I": 3,
+    "H": 13,
+    "G": 13,
+    "F": 19
+   }
+  },
+  {
+   "when": "2026-09-09T11:10:00",
+   "theatre": "Regal Mall of Georgia IMAX",
+   "fmt": "70mm",
+   "good": 3,
+   "rows": {
+    "D": 3
+   }
+  },
+  {
+   "when": "2026-09-09T11:15:00",
+   "theatre": "Downingtown Stadium 16 & IMAX",
+   "fmt": "IMAX",
+   "good": 142,
+   "rows": {
+    "M": 22,
+    "L": 19,
+    "K": 19,
+    "J": 16,
+    "I": 17,
+    "H": 17,
+    "G": 17,
+    "F": 15
+   }
+  },
+  {
+   "when": "2026-09-09T13:40:00",
+   "theatre": "New Roc City Stm 18 IMAX & RPX",
+   "fmt": "IMAX",
+   "good": 151,
+   "rows": {
+    "J": 16,
+    "I": 27,
+    "H": 27,
+    "G": 27,
+    "F": 27,
+    "E": 27
+   }
+  },
+  {
+   "when": "2026-09-09T13:50:00",
+   "theatre": "Colorado Mills 16 IMAX & RPX",
+   "fmt": "IMAX",
+   "good": 236,
+   "rows": {
+    "S": 10,
+    "R": 10,
+    "Q": 26,
+    "P": 26,
+    "O": 21,
+    "N": 21,
+    "M": 20,
+    "L": 21,
+    "K": 21,
+    "J": 21,
+    "I": 14,
+    "H": 25
+   }
+  },
+  {
+   "when": "2026-09-09T14:05:00",
+   "theatre": "Atlantic Sta Stm 18 IMAX & RPX",
+   "fmt": "IMAX",
+   "good": 178,
+   "rows": {
+    "M": 21,
+    "L": 26,
+    "K": 24,
+    "J": 24,
+    "I": 22,
+    "H": 24,
+    "G": 24,
+    "F": 13
+   }
+  },
+  {
+   "when": "2026-09-09T14:30:00",
+   "theatre": "Irvine Spectrum 20 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 3,
+   "rows": {
+    "H": 1,
+    "E": 2
+   }
+  },
+  {
+   "when": "2026-09-09T14:30:00",
+   "theatre": "Long Beach Stadium 26 & IMAX",
+   "fmt": "IMAX",
+   "good": 78,
+   "rows": {
+    "H": 7,
+    "G": 18,
+    "F": 18,
+    "E": 17,
+    "D": 18
+   }
+  },
+  {
+   "when": "2026-09-09T14:30:00",
+   "theatre": "Warrington Stadium 22 & IMAX",
+   "fmt": "IMAX",
+   "good": 203,
+   "rows": {
+    "O": 7,
+    "N": 19,
+    "M": 23,
+    "L": 22,
+    "K": 22,
+    "J": 22,
+    "I": 22,
+    "H": 22,
+    "G": 22,
+    "F": 22
+   }
+  },
+  {
+   "when": "2026-09-09T14:35:00",
+   "theatre": "Bridgeport Stadium 18 & IMAX",
+   "fmt": "IMAX",
+   "good": 138,
+   "rows": {
+    "Q": 9,
+    "P": 11,
+    "O": 21,
+    "N": 19,
+    "M": 17,
+    "L": 17,
+    "K": 19,
+    "J": 19,
+    "I": 6
+   }
+  },
+  {
+   "when": "2026-09-09T14:55:00",
+   "theatre": "Downingtown Stadium 16 & IMAX",
+   "fmt": "IMAX",
+   "good": 144,
+   "rows": {
+    "M": 22,
+    "L": 19,
+    "K": 19,
+    "J": 16,
+    "I": 17,
+    "H": 17,
+    "G": 17,
+    "F": 17
+   }
+  },
+  {
+   "when": "2026-09-09T15:00:00",
+   "theatre": "Regal Opry Mills 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 121,
+   "rows": {
+    "K": 15,
+    "J": 19,
+    "I": 19,
+    "H": 13,
+    "G": 17,
+    "F": 13,
+    "E": 25
+   }
+  },
+  {
+   "when": "2026-09-09T15:00:00",
+   "theatre": "Ontario Palace 22 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 78,
+   "rows": {
+    "M": 6,
+    "L": 9,
+    "K": 9,
+    "J": 6,
+    "I": 4,
+    "H": 12,
+    "G": 13,
+    "F": 19
+   }
+  },
+  {
+   "when": "2026-09-09T15:25:00",
+   "theatre": "Waterford Lakes Stm 20 & IMAX",
+   "fmt": "IMAX",
+   "good": 253,
+   "rows": {
+    "T": 14,
+    "S": 14,
+    "R": 18,
+    "Q": 22,
+    "P": 22,
+    "O": 22,
+    "N": 22,
+    "M": 13,
+    "L": 10,
+    "K": 24,
+    "J": 24,
+    "I": 24,
+    "H": 24
+   }
+  },
+  {
+   "when": "2026-09-09T18:00:00",
+   "theatre": "REG King of Prussia 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 1,
+   "rows": {
+    "H": 1
+   }
+  },
+  {
+   "when": "2026-09-09T19:00:00",
+   "theatre": "Regal Opry Mills 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 57,
+   "rows": {
+    "K": 2,
+    "J": 8,
+    "I": 7,
+    "H": 11,
+    "G": 9,
+    "F": 6,
+    "E": 14
+   }
+  },
+  {
+   "when": "2026-09-09T19:00:00",
+   "theatre": "Regal Mall of Georgia IMAX",
+   "fmt": "70mm",
+   "good": 1,
+   "rows": {
+    "D": 1
+   }
+  },
+  {
+   "when": "2026-09-09T19:00:00",
+   "theatre": "Ontario Palace 22 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 26,
+   "rows": {
+    "L": 1,
+    "I": 1,
+    "H": 5,
+    "G": 7,
+    "F": 12
+   }
+  },
+  {
+   "when": "2026-09-09T21:35:00",
+   "theatre": "Bridgeport Stadium 18 & IMAX",
+   "fmt": "IMAX",
+   "good": 144,
+   "rows": {
+    "Q": 9,
+    "P": 11,
+    "O": 23,
+    "N": 19,
+    "M": 19,
+    "L": 19,
+    "K": 19,
+    "J": 19,
+    "I": 6
+   }
+  },
+  {
+   "when": "2026-09-09T21:35:00",
+   "theatre": "New Roc City Stm 18 IMAX & RPX",
+   "fmt": "IMAX",
+   "good": 151,
+   "rows": {
+    "J": 16,
+    "I": 27,
+    "H": 27,
+    "G": 27,
+    "F": 27,
+    "E": 27
+   }
+  },
+  {
+   "when": "2026-09-09T21:45:00",
+   "theatre": "REG King of Prussia 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 2,
+   "rows": {
+    "D": 2
+   }
+  },
+  {
+   "when": "2026-09-09T21:45:00",
+   "theatre": "Long Beach Stadium 26 & IMAX",
+   "fmt": "IMAX",
+   "good": 79,
+   "rows": {
+    "H": 7,
+    "G": 18,
+    "F": 18,
+    "E": 18,
+    "D": 18
+   }
+  },
+  {
+   "when": "2026-09-09T22:00:00",
+   "theatre": "Colorado Mills 16 IMAX & RPX",
+   "fmt": "IMAX",
+   "good": 236,
+   "rows": {
+    "S": 10,
+    "R": 10,
+    "Q": 26,
+    "P": 26,
+    "O": 21,
+    "N": 21,
+    "M": 20,
+    "L": 21,
+    "K": 21,
+    "J": 21,
+    "I": 14,
+    "H": 25
+   }
+  },
+  {
+   "when": "2026-09-09T22:15:00",
+   "theatre": "Warrington Stadium 22 & IMAX",
+   "fmt": "IMAX",
+   "good": 203,
+   "rows": {
+    "O": 7,
+    "N": 19,
+    "M": 23,
+    "L": 22,
+    "K": 22,
+    "J": 22,
+    "I": 22,
+    "H": 22,
+    "G": 22,
+    "F": 22
+   }
+  },
+  {
+   "when": "2026-09-09T22:30:00",
+   "theatre": "Irvine Spectrum 20 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 5,
+   "rows": {
+    "F": 1,
+    "E": 4
+   }
+  },
+  {
+   "when": "2026-09-09T22:45:00",
+   "theatre": "Ontario Palace 22 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 98,
+   "rows": {
+    "M": 5,
+    "L": 8,
+    "K": 9,
+    "J": 6,
+    "I": 4,
+    "H": 21,
+    "G": 22,
+    "F": 23
+   }
+  },
+  {
+   "when": "2026-09-09T22:55:00",
+   "theatre": "Regal Mall of Georgia IMAX",
+   "fmt": "70mm",
+   "good": 2,
+   "rows": {
+    "E": 1,
+    "D": 1
+   }
+  },
+  {
+   "when": "2026-09-09T23:00:00",
+   "theatre": "Regal Opry Mills 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 175,
+   "rows": {
+    "K": 17,
+    "J": 31,
+    "I": 25,
+    "H": 27,
+    "G": 27,
+    "F": 20,
+    "E": 28
+   }
+  },
+  {
+   "when": "2026-09-10T10:10:00",
+   "theatre": "Hacienda Stadium 20 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 1,
+   "rows": {
+    "I": 1
+   }
+  },
+  {
+   "when": "2026-09-10T10:30:00",
+   "theatre": "Irvine Spectrum 20 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 6,
+   "rows": {
+    "I": 1,
+    "H": 4,
+    "E": 1
+   }
+  },
+  {
+   "when": "2026-09-10T11:00:00",
+   "theatre": "Regal Opry Mills 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 148,
+   "rows": {
+    "K": 16,
+    "J": 22,
+    "I": 23,
+    "H": 20,
+    "G": 22,
+    "F": 15,
+    "E": 30
+   }
+  },
+  {
+   "when": "2026-09-10T11:00:00",
+   "theatre": "Ontario Palace 22 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 78,
+   "rows": {
+    "M": 5,
+    "L": 7,
+    "K": 8,
+    "J": 6,
+    "I": 2,
+    "H": 14,
+    "G": 18,
+    "F": 18
+   }
+  },
+  {
+   "when": "2026-09-10T11:10:00",
+   "theatre": "Regal Mall of Georgia IMAX",
+   "fmt": "70mm",
+   "good": 4,
+   "rows": {
+    "G": 2,
+    "E": 1,
+    "D": 1
+   }
+  },
+  {
+   "when": "2026-09-10T14:10:00",
+   "theatre": "Hacienda Stadium 20 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 1,
+   "rows": {
+    "D": 1
+   }
+  },
+  {
+   "when": "2026-09-10T14:15:00",
+   "theatre": "REG King of Prussia 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 1,
+   "rows": {
+    "E": 1
+   }
+  },
+  {
+   "when": "2026-09-10T14:30:00",
+   "theatre": "Irvine Spectrum 20 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 3,
+   "rows": {
+    "E": 3
+   }
+  },
+  {
+   "when": "2026-09-10T15:00:00",
+   "theatre": "Regal Opry Mills 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 115,
+   "rows": {
+    "K": 13,
+    "J": 18,
+    "I": 20,
+    "H": 15,
+    "G": 18,
+    "F": 7,
+    "E": 24
+   }
+  },
+  {
+   "when": "2026-09-10T15:00:00",
+   "theatre": "Ontario Palace 22 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 72,
+   "rows": {
+    "M": 5,
+    "L": 8,
+    "K": 7,
+    "J": 6,
+    "I": 1,
+    "H": 15,
+    "G": 11,
+    "F": 19
+   }
+  },
+  {
+   "when": "2026-09-10T15:05:00",
+   "theatre": "Regal Mall of Georgia IMAX",
+   "fmt": "70mm",
+   "good": 3,
+   "rows": {
+    "E": 2,
+    "D": 1
+   }
+  },
+  {
+   "when": "2026-09-10T19:00:00",
+   "theatre": "Regal Opry Mills 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 56,
+   "rows": {
+    "K": 3,
+    "J": 5,
+    "I": 8,
+    "H": 10,
+    "G": 9,
+    "F": 5,
+    "E": 16
+   }
+  },
+  {
+   "when": "2026-09-10T19:00:00",
+   "theatre": "Ontario Palace 22 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 13,
+   "rows": {
+    "M": 1,
+    "K": 1,
+    "I": 1,
+    "H": 1,
+    "G": 2,
+    "F": 7
+   }
+  },
+  {
+   "when": "2026-09-10T22:30:00",
+   "theatre": "Irvine Spectrum 20 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 4,
+   "rows": {
+    "F": 1,
+    "E": 3
+   }
+  },
+  {
+   "when": "2026-09-10T22:45:00",
+   "theatre": "Ontario Palace 22 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 81,
+   "rows": {
+    "M": 5,
+    "L": 7,
+    "K": 8,
+    "J": 6,
+    "I": 2,
+    "H": 18,
+    "G": 17,
+    "F": 18
+   }
+  },
+  {
+   "when": "2026-09-10T23:00:00",
+   "theatre": "Regal Opry Mills 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 182,
+   "rows": {
+    "K": 20,
+    "J": 31,
+    "I": 28,
+    "H": 25,
+    "G": 26,
+    "F": 20,
+    "E": 32
+   }
+  },
+  {
+   "when": "2026-09-11T10:30:00",
+   "theatre": "Irvine Spectrum 20 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 2,
+   "rows": {
+    "F": 2
+   }
+  },
+  {
+   "when": "2026-09-11T11:00:00",
+   "theatre": "Regal Opry Mills 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 121,
+   "rows": {
+    "K": 12,
+    "J": 19,
+    "I": 20,
+    "H": 15,
+    "G": 13,
+    "F": 12,
+    "E": 30
+   }
+  },
+  {
+   "when": "2026-09-11T11:00:00",
+   "theatre": "Ontario Palace 22 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 47,
+   "rows": {
+    "M": 2,
+    "L": 3,
+    "K": 1,
+    "J": 6,
+    "I": 1,
+    "H": 10,
+    "G": 10,
+    "F": 14
+   }
+  },
+  {
+   "when": "2026-09-11T11:10:00",
+   "theatre": "Regal Mall of Georgia IMAX",
+   "fmt": "70mm",
+   "good": 2,
+   "rows": {
+    "E": 2
+   }
+  },
+  {
+   "when": "2026-09-11T15:00:00",
+   "theatre": "Regal Opry Mills 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 71,
+   "rows": {
+    "K": 10,
+    "J": 9,
+    "I": 10,
+    "H": 9,
+    "G": 7,
+    "F": 5,
+    "E": 21
+   }
+  },
+  {
+   "when": "2026-09-11T15:00:00",
+   "theatre": "Ontario Palace 22 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 27,
+   "rows": {
+    "L": 3,
+    "K": 2,
+    "J": 4,
+    "H": 5,
+    "G": 6,
+    "F": 7
+   }
+  },
+  {
+   "when": "2026-09-11T19:00:00",
+   "theatre": "Regal Opry Mills 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 12,
+   "rows": {
+    "G": 2,
+    "E": 10
+   }
+  },
+  {
+   "when": "2026-09-11T19:00:00",
+   "theatre": "Regal Mall of Georgia IMAX",
+   "fmt": "70mm",
+   "good": 2,
+   "rows": {
+    "H": 2
+   }
+  },
+  {
+   "when": "2026-09-11T19:00:00",
+   "theatre": "Ontario Palace 22 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 4,
+   "rows": {
+    "M": 1,
+    "K": 1,
+    "H": 2
+   }
+  },
+  {
+   "when": "2026-09-11T22:45:00",
+   "theatre": "Ontario Palace 22 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 21,
+   "rows": {
+    "L": 1,
+    "K": 3,
+    "J": 2,
+    "I": 1,
+    "H": 4,
+    "G": 4,
+    "F": 6
+   }
+  },
+  {
+   "when": "2026-09-11T23:00:00",
+   "theatre": "Regal Opry Mills 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 104,
+   "rows": {
+    "K": 7,
+    "J": 18,
+    "I": 16,
+    "H": 13,
+    "G": 15,
+    "F": 9,
+    "E": 26
+   }
+  },
+  {
+   "when": "2026-09-12T11:00:00",
+   "theatre": "Regal Opry Mills 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 14,
+   "rows": {
+    "J": 1,
+    "I": 2,
+    "F": 2,
+    "E": 9
+   }
+  },
+  {
+   "when": "2026-09-12T11:00:00",
+   "theatre": "Ontario Palace 22 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 2,
+   "rows": {
+    "J": 1,
+    "H": 1
+   }
+  },
+  {
+   "when": "2026-09-12T15:00:00",
+   "theatre": "Regal Opry Mills 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 13,
+   "rows": {
+    "J": 3,
+    "I": 1,
+    "G": 1,
+    "E": 8
+   }
+  },
+  {
+   "when": "2026-09-12T15:00:00",
+   "theatre": "Ontario Palace 22 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 4,
+   "rows": {
+    "M": 1,
+    "L": 1,
+    "H": 1,
+    "F": 1
+   }
+  },
+  {
+   "when": "2026-09-12T19:00:00",
+   "theatre": "Regal Opry Mills 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 10,
+   "rows": {
+    "G": 2,
+    "F": 1,
+    "E": 7
+   }
+  },
+  {
+   "when": "2026-09-12T19:00:00",
+   "theatre": "Ontario Palace 22 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 8,
+   "rows": {
+    "M": 1,
+    "L": 1,
+    "J": 1,
+    "H": 2,
+    "G": 1,
+    "F": 2
+   }
+  },
+  {
+   "when": "2026-09-12T21:45:00",
+   "theatre": "REG King of Prussia 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 4,
+   "rows": {
+    "E": 4
+   }
+  },
+  {
+   "when": "2026-09-12T22:30:00",
+   "theatre": "Irvine Spectrum 20 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 1,
+   "rows": {
+    "E": 1
+   }
+  },
+  {
+   "when": "2026-09-12T22:45:00",
+   "theatre": "Ontario Palace 22 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 18,
+   "rows": {
+    "L": 1,
+    "H": 3,
+    "G": 4,
+    "F": 10
+   }
+  },
+  {
+   "when": "2026-09-12T23:00:00",
+   "theatre": "Regal Opry Mills 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 118,
+   "rows": {
+    "K": 12,
+    "J": 18,
+    "I": 21,
+    "H": 17,
+    "G": 16,
+    "F": 8,
+    "E": 26
+   }
+  },
+  {
+   "when": "2026-09-13T10:10:00",
+   "theatre": "Hacienda Stadium 20 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 1,
+   "rows": {
+    "I": 1
+   }
+  },
+  {
+   "when": "2026-09-13T11:00:00",
+   "theatre": "Regal Opry Mills 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 11,
+   "rows": {
+    "I": 1,
+    "E": 10
+   }
+  },
+  {
+   "when": "2026-09-13T11:00:00",
+   "theatre": "Ontario Palace 22 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 2,
+   "rows": {
+    "M": 1,
+    "H": 1
+   }
+  },
+  {
+   "when": "2026-09-13T15:00:00",
+   "theatre": "Regal Opry Mills 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 8,
+   "rows": {
+    "K": 1,
+    "J": 3,
+    "H": 1,
+    "G": 1,
+    "E": 2
+   }
+  },
+  {
+   "when": "2026-09-13T15:00:00",
+   "theatre": "Ontario Palace 22 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 3,
+   "rows": {
+    "M": 1,
+    "I": 1,
+    "G": 1
+   }
+  },
+  {
+   "when": "2026-09-13T19:00:00",
+   "theatre": "Regal Opry Mills 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 40,
+   "rows": {
+    "K": 2,
+    "J": 6,
+    "I": 4,
+    "H": 3,
+    "G": 6,
+    "F": 5,
+    "E": 14
+   }
+  },
+  {
+   "when": "2026-09-13T19:00:00",
+   "theatre": "Regal Mall of Georgia IMAX",
+   "fmt": "70mm",
+   "good": 2,
+   "rows": {
+    "I": 1,
+    "E": 1
+   }
+  },
+  {
+   "when": "2026-09-13T19:00:00",
+   "theatre": "Ontario Palace 22 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 12,
+   "rows": {
+    "M": 1,
+    "K": 1,
+    "H": 1,
+    "G": 2,
+    "F": 7
+   }
+  },
+  {
+   "when": "2026-09-13T22:30:00",
+   "theatre": "Irvine Spectrum 20 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 3,
+   "rows": {
+    "G": 1,
+    "F": 1,
+    "E": 1
+   }
+  },
+  {
+   "when": "2026-09-13T22:45:00",
+   "theatre": "Ontario Palace 22 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 85,
+   "rows": {
+    "M": 4,
+    "L": 6,
+    "K": 8,
+    "J": 6,
+    "I": 4,
+    "H": 19,
+    "G": 16,
+    "F": 22
+   }
+  },
+  {
+   "when": "2026-09-13T23:00:00",
+   "theatre": "Regal Opry Mills 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 179,
+   "rows": {
+    "K": 20,
+    "J": 25,
+    "I": 29,
+    "H": 27,
+    "G": 26,
+    "F": 20,
+    "E": 32
+   }
+  },
+  {
+   "when": "2026-09-14T10:10:00",
+   "theatre": "Hacienda Stadium 20 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 2,
+   "rows": {
+    "E": 1,
+    "D": 1
+   }
+  },
+  {
+   "when": "2026-09-14T10:30:00",
+   "theatre": "REG King of Prussia 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 1,
+   "rows": {
+    "D": 1
+   }
+  },
+  {
+   "when": "2026-09-14T10:30:00",
+   "theatre": "Irvine Spectrum 20 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 2,
+   "rows": {
+    "K": 1,
+    "E": 1
+   }
+  },
+  {
+   "when": "2026-09-14T11:00:00",
+   "theatre": "Regal Opry Mills 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 148,
+   "rows": {
+    "K": 17,
+    "J": 23,
+    "I": 20,
+    "H": 20,
+    "G": 20,
+    "F": 16,
+    "E": 32
+   }
+  },
+  {
+   "when": "2026-09-14T11:00:00",
+   "theatre": "Ontario Palace 22 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 81,
+   "rows": {
+    "M": 5,
+    "L": 9,
+    "K": 6,
+    "J": 3,
+    "I": 1,
+    "H": 16,
+    "G": 18,
+    "F": 23
+   }
+  },
+  {
+   "when": "2026-09-14T11:10:00",
+   "theatre": "Regal Mall of Georgia IMAX",
+   "fmt": "70mm",
+   "good": 3,
+   "rows": {
+    "I": 1,
+    "F": 1,
+    "D": 1
+   }
+  },
+  {
+   "when": "2026-09-14T14:30:00",
+   "theatre": "Irvine Spectrum 20 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 1,
+   "rows": {
+    "E": 1
+   }
+  },
+  {
+   "when": "2026-09-14T15:00:00",
+   "theatre": "Regal Opry Mills 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 121,
+   "rows": {
+    "K": 13,
+    "J": 18,
+    "I": 16,
+    "H": 18,
+    "G": 15,
+    "F": 13,
+    "E": 28
+   }
+  },
+  {
+   "when": "2026-09-14T15:00:00",
+   "theatre": "Ontario Palace 22 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 59,
+   "rows": {
+    "M": 5,
+    "L": 5,
+    "K": 5,
+    "J": 1,
+    "I": 2,
+    "H": 12,
+    "G": 13,
+    "F": 16
+   }
+  },
+  {
+   "when": "2026-09-14T15:05:00",
+   "theatre": "Regal Mall of Georgia IMAX",
+   "fmt": "70mm",
+   "good": 1,
+   "rows": {
+    "E": 1
+   }
+  },
+  {
+   "when": "2026-09-14T19:00:00",
+   "theatre": "Regal Opry Mills 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 66,
+   "rows": {
+    "K": 2,
+    "J": 5,
+    "I": 13,
+    "H": 13,
+    "G": 11,
+    "F": 5,
+    "E": 17
+   }
+  },
+  {
+   "when": "2026-09-14T19:00:00",
+   "theatre": "Regal Mall of Georgia IMAX",
+   "fmt": "70mm",
+   "good": 2,
+   "rows": {
+    "E": 1,
+    "D": 1
+   }
+  },
+  {
+   "when": "2026-09-14T19:00:00",
+   "theatre": "Ontario Palace 22 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 38,
+   "rows": {
+    "M": 3,
+    "L": 1,
+    "K": 4,
+    "J": 4,
+    "I": 1,
+    "H": 8,
+    "G": 10,
+    "F": 7
+   }
+  },
+  {
+   "when": "2026-09-14T22:30:00",
+   "theatre": "Irvine Spectrum 20 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 11,
+   "rows": {
+    "G": 2,
+    "F": 2,
+    "E": 7
+   }
+  },
+  {
+   "when": "2026-09-14T22:45:00",
+   "theatre": "Ontario Palace 22 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 118,
+   "rows": {
+    "M": 7,
+    "L": 10,
+    "K": 15,
+    "J": 6,
+    "I": 8,
+    "H": 26,
+    "G": 22,
+    "F": 24
+   }
+  },
+  {
+   "when": "2026-09-14T22:55:00",
+   "theatre": "Regal Mall of Georgia IMAX",
+   "fmt": "70mm",
+   "good": 5,
+   "rows": {
+    "I": 1,
+    "G": 2,
+    "D": 2
+   }
+  },
+  {
+   "when": "2026-09-14T23:00:00",
+   "theatre": "Regal Opry Mills 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 199,
+   "rows": {
+    "K": 20,
+    "J": 34,
+    "I": 32,
+    "H": 31,
+    "G": 30,
+    "F": 20,
+    "E": 32
+   }
+  },
+  {
+   "when": "2026-09-15T10:10:00",
+   "theatre": "Hacienda Stadium 20 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 1,
+   "rows": {
+    "F": 1
+   }
+  },
+  {
+   "when": "2026-09-15T10:30:00",
+   "theatre": "Irvine Spectrum 20 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 3,
+   "rows": {
+    "H": 1,
+    "E": 2
+   }
+  },
+  {
+   "when": "2026-09-15T11:00:00",
+   "theatre": "Regal Opry Mills 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 162,
+   "rows": {
+    "K": 20,
+    "J": 27,
+    "I": 24,
+    "H": 22,
+    "G": 21,
+    "F": 19,
+    "E": 29
+   }
+  },
+  {
+   "when": "2026-09-15T11:00:00",
+   "theatre": "Ontario Palace 22 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 100,
+   "rows": {
+    "M": 7,
+    "L": 9,
+    "K": 7,
+    "J": 6,
+    "I": 5,
+    "H": 19,
+    "G": 21,
+    "F": 26
+   }
+  },
+  {
+   "when": "2026-09-15T11:10:00",
+   "theatre": "Regal Mall of Georgia IMAX",
+   "fmt": "70mm",
+   "good": 2,
+   "rows": {
+    "D": 2
+   }
+  },
+  {
+   "when": "2026-09-15T14:10:00",
+   "theatre": "Hacienda Stadium 20 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 1,
+   "rows": {
+    "F": 1
+   }
+  },
+  {
+   "when": "2026-09-15T14:30:00",
+   "theatre": "Irvine Spectrum 20 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 6,
+   "rows": {
+    "F": 1,
+    "E": 5
+   }
+  },
+  {
+   "when": "2026-09-15T15:00:00",
+   "theatre": "Regal Opry Mills 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 146,
+   "rows": {
+    "K": 16,
+    "J": 23,
+    "I": 18,
+    "H": 20,
+    "G": 20,
+    "F": 17,
+    "E": 32
+   }
+  },
+  {
+   "when": "2026-09-15T15:00:00",
+   "theatre": "Ontario Palace 22 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 102,
+   "rows": {
+    "M": 7,
+    "L": 11,
+    "K": 11,
+    "J": 6,
+    "I": 4,
+    "H": 20,
+    "G": 20,
+    "F": 23
+   }
+  },
+  {
+   "when": "2026-09-15T15:05:00",
+   "theatre": "Regal Mall of Georgia IMAX",
+   "fmt": "70mm",
+   "good": 5,
+   "rows": {
+    "E": 3,
+    "D": 2
+   }
+  },
+  {
+   "when": "2026-09-15T18:10:00",
+   "theatre": "Hacienda Stadium 20 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 2,
+   "rows": {
+    "F": 1,
+    "E": 1
+   }
+  },
+  {
+   "when": "2026-09-15T18:30:00",
+   "theatre": "Irvine Spectrum 20 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 1,
+   "rows": {
+    "E": 1
+   }
+  },
+  {
+   "when": "2026-09-15T19:00:00",
+   "theatre": "Regal Opry Mills 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 70,
+   "rows": {
+    "K": 11,
+    "J": 11,
+    "I": 9,
+    "H": 7,
+    "G": 9,
+    "F": 7,
+    "E": 16
+   }
+  },
+  {
+   "when": "2026-09-15T19:00:00",
+   "theatre": "Ontario Palace 22 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 34,
+   "rows": {
+    "M": 1,
+    "K": 1,
+    "J": 4,
+    "I": 1,
+    "H": 4,
+    "G": 9,
+    "F": 14
+   }
+  },
+  {
+   "when": "2026-09-15T22:30:00",
+   "theatre": "Irvine Spectrum 20 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 2,
+   "rows": {
+    "F": 1,
+    "E": 1
+   }
+  },
+  {
+   "when": "2026-09-15T22:45:00",
+   "theatre": "Ontario Palace 22 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 119,
+   "rows": {
+    "M": 7,
+    "L": 11,
+    "K": 15,
+    "J": 6,
+    "I": 9,
+    "H": 23,
+    "G": 22,
+    "F": 26
+   }
+  },
+  {
+   "when": "2026-09-15T22:55:00",
+   "theatre": "Regal Mall of Georgia IMAX",
+   "fmt": "70mm",
+   "good": 6,
+   "rows": {
+    "F": 1,
+    "D": 5
+   }
+  },
+  {
+   "when": "2026-09-15T23:00:00",
+   "theatre": "Regal Opry Mills 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 198,
+   "rows": {
+    "K": 20,
+    "J": 33,
+    "I": 32,
+    "H": 31,
+    "G": 30,
+    "F": 20,
+    "E": 32
+   }
+  },
+  {
+   "when": "2026-09-16T10:10:00",
+   "theatre": "Hacienda Stadium 20 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 1,
+   "rows": {
+    "E": 1
+   }
+  },
+  {
+   "when": "2026-09-16T10:30:00",
+   "theatre": "REG King of Prussia 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 2,
+   "rows": {
+    "E": 2
+   }
+  },
+  {
+   "when": "2026-09-16T10:30:00",
+   "theatre": "Irvine Spectrum 20 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 8,
+   "rows": {
+    "J": 1,
+    "F": 1,
+    "E": 6
+   }
+  },
+  {
+   "when": "2026-09-16T11:00:00",
+   "theatre": "Regal Opry Mills 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 159,
+   "rows": {
+    "K": 18,
+    "J": 24,
+    "I": 25,
+    "H": 21,
+    "G": 22,
+    "F": 17,
+    "E": 32
+   }
+  },
+  {
+   "when": "2026-09-16T11:00:00",
+   "theatre": "Ontario Palace 22 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 95,
+   "rows": {
+    "M": 3,
+    "L": 9,
+    "K": 9,
+    "J": 6,
+    "I": 6,
+    "H": 22,
+    "G": 17,
+    "F": 23
+   }
+  },
+  {
+   "when": "2026-09-16T11:10:00",
+   "theatre": "Regal Mall of Georgia IMAX",
+   "fmt": "70mm",
+   "good": 8,
+   "rows": {
+    "G": 1,
+    "F": 2,
+    "E": 1,
+    "D": 4
+   }
+  },
+  {
+   "when": "2026-09-16T14:30:00",
+   "theatre": "Irvine Spectrum 20 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 8,
+   "rows": {
+    "K": 6,
+    "G": 2
+   }
+  },
+  {
+   "when": "2026-09-16T15:00:00",
+   "theatre": "Regal Opry Mills 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 126,
+   "rows": {
+    "K": 12,
+    "J": 16,
+    "I": 18,
+    "H": 17,
+    "G": 18,
+    "F": 16,
+    "E": 29
+   }
+  },
+  {
+   "when": "2026-09-16T15:00:00",
+   "theatre": "Ontario Palace 22 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 77,
+   "rows": {
+    "M": 3,
+    "L": 8,
+    "K": 8,
+    "J": 6,
+    "I": 3,
+    "H": 17,
+    "G": 15,
+    "F": 17
+   }
+  },
+  {
+   "when": "2026-09-16T18:30:00",
+   "theatre": "Irvine Spectrum 20 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 1,
+   "rows": {
+    "E": 1
+   }
+  },
+  {
+   "when": "2026-09-16T19:00:00",
+   "theatre": "Regal Opry Mills 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 79,
+   "rows": {
+    "K": 9,
+    "J": 7,
+    "I": 13,
+    "H": 12,
+    "G": 13,
+    "F": 6,
+    "E": 19
+   }
+  },
+  {
+   "when": "2026-09-16T19:00:00",
+   "theatre": "Ontario Palace 22 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 28,
+   "rows": {
+    "M": 2,
+    "L": 2,
+    "K": 2,
+    "J": 5,
+    "H": 2,
+    "G": 8,
+    "F": 7
+   }
+  },
+  {
+   "when": "2026-09-16T22:30:00",
+   "theatre": "Irvine Spectrum 20 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 7,
+   "rows": {
+    "I": 2,
+    "E": 5
+   }
+  },
+  {
+   "when": "2026-09-16T22:45:00",
+   "theatre": "Ontario Palace 22 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 101,
+   "rows": {
+    "M": 7,
+    "L": 10,
+    "K": 9,
+    "J": 6,
+    "I": 6,
+    "H": 21,
+    "G": 21,
+    "F": 21
+   }
+  },
+  {
+   "when": "2026-09-16T22:55:00",
+   "theatre": "Regal Mall of Georgia IMAX",
+   "fmt": "70mm",
+   "good": 6,
+   "rows": {
+    "H": 2,
+    "F": 2,
+    "D": 2
+   }
+  },
+  {
+   "when": "2026-09-16T23:00:00",
+   "theatre": "Regal Opry Mills 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 183,
+   "rows": {
+    "K": 20,
+    "J": 29,
+    "I": 27,
+    "H": 26,
+    "G": 29,
+    "F": 20,
+    "E": 32
+   }
+  },
+  {
+   "when": "2026-09-17T10:10:00",
+   "theatre": "Hacienda Stadium 20 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 98,
+   "rows": {
+    "I": 7,
+    "H": 10,
+    "G": 16,
+    "F": 15,
+    "E": 20,
+    "D": 30
+   }
+  },
+  {
+   "when": "2026-09-17T10:15:00",
+   "theatre": "Irvine Spectrum 20 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 210,
+   "rows": {
+    "L": 10,
+    "K": 21,
+    "J": 29,
+    "I": 27,
+    "H": 28,
+    "G": 26,
+    "F": 30,
+    "E": 39
+   }
+  },
+  {
+   "when": "2026-09-17T10:30:00",
+   "theatre": "REG King of Prussia 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 105,
+   "rows": {
+    "H": 15,
+    "G": 20,
+    "F": 21,
+    "E": 21,
+    "D": 28
+   }
+  },
+  {
+   "when": "2026-09-17T11:00:00",
+   "theatre": "Regal Opry Mills 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 192,
+   "rows": {
+    "K": 20,
+    "J": 34,
+    "I": 31,
+    "H": 29,
+    "G": 27,
+    "F": 20,
+    "E": 31
+   }
+  },
+  {
+   "when": "2026-09-17T11:00:00",
+   "theatre": "Ontario Palace 22 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 162,
+   "rows": {
+    "M": 6,
+    "L": 11,
+    "K": 20,
+    "J": 6,
+    "I": 15,
+    "H": 37,
+    "G": 35,
+    "F": 32
+   }
+  },
+  {
+   "when": "2026-09-17T11:10:00",
+   "theatre": "Regal Mall of Georgia IMAX",
+   "fmt": "70mm",
+   "good": 133,
+   "rows": {
+    "I": 16,
+    "H": 28,
+    "G": 21,
+    "F": 20,
+    "E": 22,
+    "D": 26
+   }
+  },
+  {
+   "when": "2026-09-17T14:10:00",
+   "theatre": "Hacienda Stadium 20 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 99,
+   "rows": {
+    "I": 13,
+    "H": 8,
+    "G": 15,
+    "F": 15,
+    "E": 18,
+    "D": 30
+   }
+  },
+  {
+   "when": "2026-09-17T14:15:00",
+   "theatre": "REG King of Prussia 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 97,
+   "rows": {
+    "H": 15,
+    "G": 17,
+    "F": 18,
+    "E": 22,
+    "D": 25
+   }
+  },
+  {
+   "when": "2026-09-17T14:15:00",
+   "theatre": "Irvine Spectrum 20 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 191,
+   "rows": {
+    "L": 13,
+    "K": 18,
+    "J": 20,
+    "I": 19,
+    "H": 23,
+    "G": 28,
+    "F": 31,
+    "E": 39
+   }
+  },
+  {
+   "when": "2026-09-17T14:45:00",
+   "theatre": "Ontario Palace 22 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 155,
+   "rows": {
+    "M": 7,
+    "L": 11,
+    "K": 19,
+    "J": 6,
+    "I": 18,
+    "H": 30,
+    "G": 30,
+    "F": 34
+   }
+  },
+  {
+   "when": "2026-09-17T15:00:00",
+   "theatre": "Regal Opry Mills 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 194,
+   "rows": {
+    "K": 20,
+    "J": 34,
+    "I": 29,
+    "H": 31,
+    "G": 30,
+    "F": 18,
+    "E": 32
+   }
+  },
+  {
+   "when": "2026-09-17T15:05:00",
+   "theatre": "Regal Mall of Georgia IMAX",
+   "fmt": "70mm",
+   "good": 138,
+   "rows": {
+    "I": 16,
+    "H": 25,
+    "G": 24,
+    "F": 21,
+    "E": 24,
+    "D": 28
+   }
+  },
+  {
+   "when": "2026-09-17T18:00:00",
+   "theatre": "REG King of Prussia 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 54,
+   "rows": {
+    "H": 8,
+    "G": 11,
+    "F": 10,
+    "E": 12,
+    "D": 13
+   }
+  },
+  {
+   "when": "2026-09-17T18:10:00",
+   "theatre": "Hacienda Stadium 20 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 43,
+   "rows": {
+    "I": 1,
+    "G": 6,
+    "F": 7,
+    "E": 10,
+    "D": 19
+   }
+  },
+  {
+   "when": "2026-09-17T18:15:00",
+   "theatre": "Irvine Spectrum 20 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 114,
+   "rows": {
+    "L": 3,
+    "K": 8,
+    "J": 10,
+    "I": 14,
+    "H": 14,
+    "G": 18,
+    "F": 19,
+    "E": 28
+   }
+  },
+  {
+   "when": "2026-09-17T18:30:00",
+   "theatre": "Ontario Palace 22 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 138,
+   "rows": {
+    "M": 7,
+    "L": 11,
+    "K": 21,
+    "J": 6,
+    "I": 11,
+    "H": 25,
+    "G": 25,
+    "F": 32
+   }
+  },
+  {
+   "when": "2026-09-17T19:00:00",
+   "theatre": "Regal Opry Mills 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 156,
+   "rows": {
+    "K": 20,
+    "J": 25,
+    "I": 20,
+    "H": 24,
+    "G": 22,
+    "F": 15,
+    "E": 30
+   }
+  },
+  {
+   "when": "2026-09-17T19:00:00",
+   "theatre": "Regal Mall of Georgia IMAX",
+   "fmt": "70mm",
+   "good": 94,
+   "rows": {
+    "I": 9,
+    "H": 16,
+    "G": 13,
+    "F": 16,
+    "E": 15,
+    "D": 25
+   }
+  },
+  {
+   "when": "2026-09-17T21:45:00",
+   "theatre": "REG King of Prussia 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 96,
+   "rows": {
+    "H": 19,
+    "G": 16,
+    "F": 15,
+    "E": 23,
+    "D": 23
+   }
+  },
+  {
+   "when": "2026-09-17T22:55:00",
+   "theatre": "Regal Mall of Georgia IMAX",
+   "fmt": "70mm",
+   "good": 147,
+   "rows": {
+    "I": 16,
+    "H": 28,
+    "G": 22,
+    "F": 27,
+    "E": 26,
+    "D": 28
+   }
+  },
+  {
+   "when": "2026-09-17T23:00:00",
+   "theatre": "Regal Opry Mills 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 196,
+   "rows": {
+    "K": 20,
+    "J": 34,
+    "I": 31,
+    "H": 29,
+    "G": 30,
+    "F": 20,
+    "E": 32
+   }
+  },
+  {
+   "when": "2026-09-18T10:10:00",
+   "theatre": "Hacienda Stadium 20 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 95,
+   "rows": {
+    "I": 6,
+    "H": 7,
+    "G": 16,
+    "F": 17,
+    "E": 21,
+    "D": 28
+   }
+  },
+  {
+   "when": "2026-09-18T10:15:00",
+   "theatre": "Irvine Spectrum 20 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 193,
+   "rows": {
+    "L": 10,
+    "K": 21,
+    "J": 27,
+    "I": 24,
+    "H": 26,
+    "G": 22,
+    "F": 29,
+    "E": 34
+   }
+  },
+  {
+   "when": "2026-09-18T10:30:00",
+   "theatre": "REG King of Prussia 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 97,
+   "rows": {
+    "H": 17,
+    "G": 16,
+    "F": 14,
+    "E": 22,
+    "D": 28
+   }
+  },
+  {
+   "when": "2026-09-18T11:00:00",
+   "theatre": "Regal Opry Mills 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 202,
+   "rows": {
+    "K": 20,
+    "J": 33,
+    "I": 34,
+    "H": 31,
+    "G": 32,
+    "F": 20,
+    "E": 32
+   }
+  },
+  {
+   "when": "2026-09-18T11:00:00",
+   "theatre": "Ontario Palace 22 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 155,
+   "rows": {
+    "M": 7,
+    "L": 11,
+    "K": 22,
+    "J": 6,
+    "I": 14,
+    "H": 34,
+    "G": 30,
+    "F": 31
+   }
+  },
+  {
+   "when": "2026-09-18T11:10:00",
+   "theatre": "Regal Mall of Georgia IMAX",
+   "fmt": "70mm",
+   "good": 136,
+   "rows": {
+    "I": 18,
+    "H": 27,
+    "G": 19,
+    "F": 22,
+    "E": 22,
+    "D": 28
+   }
+  },
+  {
+   "when": "2026-09-18T14:10:00",
+   "theatre": "Hacienda Stadium 20 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 83,
+   "rows": {
+    "I": 4,
+    "H": 6,
+    "G": 8,
+    "F": 16,
+    "E": 20,
+    "D": 29
+   }
+  },
+  {
+   "when": "2026-09-18T14:15:00",
+   "theatre": "REG King of Prussia 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 89,
+   "rows": {
+    "H": 12,
+    "G": 17,
+    "F": 14,
+    "E": 20,
+    "D": 26
+   }
+  },
+  {
+   "when": "2026-09-18T14:15:00",
+   "theatre": "Irvine Spectrum 20 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 195,
+   "rows": {
+    "L": 13,
+    "K": 18,
+    "J": 25,
+    "I": 21,
+    "H": 22,
+    "G": 28,
+    "F": 31,
+    "E": 37
+   }
+  },
+  {
+   "when": "2026-09-18T14:45:00",
+   "theatre": "Ontario Palace 22 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 155,
+   "rows": {
+    "M": 7,
+    "L": 11,
+    "K": 18,
+    "J": 6,
+    "I": 18,
+    "H": 32,
+    "G": 30,
+    "F": 33
+   }
+  },
+  {
+   "when": "2026-09-18T15:00:00",
+   "theatre": "Regal Opry Mills 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 202,
+   "rows": {
+    "K": 20,
+    "J": 34,
+    "I": 34,
+    "H": 33,
+    "G": 31,
+    "F": 18,
+    "E": 32
+   }
+  },
+  {
+   "when": "2026-09-18T15:05:00",
+   "theatre": "Regal Mall of Georgia IMAX",
+   "fmt": "70mm",
+   "good": 124,
+   "rows": {
+    "I": 13,
+    "H": 26,
+    "G": 21,
+    "F": 23,
+    "E": 17,
+    "D": 24
+   }
+  },
+  {
+   "when": "2026-09-18T18:00:00",
+   "theatre": "REG King of Prussia 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 24,
+   "rows": {
+    "G": 4,
+    "F": 2,
+    "E": 9,
+    "D": 9
+   }
+  },
+  {
+   "when": "2026-09-18T18:10:00",
+   "theatre": "Hacienda Stadium 20 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 12,
+   "rows": {
+    "H": 1,
+    "F": 1,
+    "E": 3,
+    "D": 7
+   }
+  },
+  {
+   "when": "2026-09-18T18:15:00",
+   "theatre": "Irvine Spectrum 20 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 113,
+   "rows": {
+    "L": 3,
+    "K": 12,
+    "J": 10,
+    "I": 13,
+    "H": 15,
+    "G": 14,
+    "F": 21,
+    "E": 25
+   }
+  },
+  {
+   "when": "2026-09-18T18:30:00",
+   "theatre": "Ontario Palace 22 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 116,
+   "rows": {
+    "M": 7,
+    "L": 6,
+    "K": 11,
+    "J": 6,
+    "I": 9,
+    "H": 25,
+    "G": 26,
+    "F": 26
+   }
+  },
+  {
+   "when": "2026-09-18T19:00:00",
+   "theatre": "Regal Opry Mills 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 183,
+   "rows": {
+    "K": 19,
+    "J": 31,
+    "I": 30,
+    "H": 23,
+    "G": 28,
+    "F": 20,
+    "E": 32
+   }
+  },
+  {
+   "when": "2026-09-18T19:00:00",
+   "theatre": "Regal Mall of Georgia IMAX",
+   "fmt": "70mm",
+   "good": 76,
+   "rows": {
+    "I": 6,
+    "H": 14,
+    "G": 11,
+    "F": 15,
+    "E": 12,
+    "D": 18
+   }
+  },
+  {
+   "when": "2026-09-18T21:45:00",
+   "theatre": "REG King of Prussia 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 64,
+   "rows": {
+    "H": 8,
+    "G": 11,
+    "F": 14,
+    "E": 15,
+    "D": 16
+   }
+  },
+  {
+   "when": "2026-09-18T22:55:00",
+   "theatre": "Regal Mall of Georgia IMAX",
+   "fmt": "70mm",
+   "good": 131,
+   "rows": {
+    "I": 11,
+    "H": 24,
+    "G": 20,
+    "F": 27,
+    "E": 26,
+    "D": 23
+   }
+  }
+ ],
+ "counts": {
+  "good": 278,
+  "shows": 402,
+  "venues": 14,
+  "shows_70mm": 315
+ }
+}
