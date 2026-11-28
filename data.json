@@ -1,0 +1,335 @@
+{
+ "updated": "2026-11-28T10:03:03.414794",
+ "movie": "The Odyssey",
+ "venues": {
+  "0347": {
+   "name": "Hacienda Stadium 20 IMAX & RPX",
+   "city": "Dublin",
+   "state": "CA",
+   "slug": "hacienda-stadium-20-imax-rpx-0347"
+  },
+  "1010": {
+   "name": "Irvine Spectrum 20 IMAX & RPX",
+   "city": "Irvine",
+   "state": "CA",
+   "slug": "irvine-spectrum-20-imax-rpx-1010"
+  },
+  "1026": {
+   "name": "Ontario Palace 22 IMAX & RPX",
+   "city": "Ontario",
+   "state": "CA",
+   "slug": "ontario-palace-22-imax-rpx-1026"
+  },
+  "0701": {
+   "name": "Regal Mall of Georgia IMAX",
+   "city": "Buford",
+   "state": "GA",
+   "slug": "regal-mall-of-georgia-imax-0701"
+  },
+  "1329": {
+   "name": "REG King of Prussia 4DX & IMAX",
+   "city": "King Of Prussia",
+   "state": "PA",
+   "slug": "reg-king-of-prussia-4dx-imax-1329"
+  },
+  "0615": {
+   "name": "Regal Opry Mills 4DX & IMAX",
+   "city": "Nashville",
+   "state": "TN",
+   "slug": "regal-opry-mills-4dx-imax-0615"
+  },
+  "1042": {
+   "name": "Long Beach Stadium 26 & IMAX",
+   "city": "Long Beach",
+   "state": "CA",
+   "slug": "long-beach-stadium-26-imax-1042"
+  },
+  "1550": {
+   "name": "Colorado Mills 16 IMAX & RPX",
+   "city": "Lakewood",
+   "state": "CO",
+   "slug": "colorado-mills-16-imax-rpx-1550"
+  },
+  "0734": {
+   "name": "Waterford Lakes Stm 20 & IMAX",
+   "city": "Orlando",
+   "state": "FL",
+   "slug": "waterford-lakes-stm-20-imax-0734"
+  },
+  "1346": {
+   "name": "Atlantic Sta Stm 18 IMAX & RPX",
+   "city": "Atlanta",
+   "state": "GA",
+   "slug": "atlantic-sta-stm-18-imax-rpx-1346"
+  },
+  "0297": {
+   "name": "New Roc City Stm 18 IMAX & RPX",
+   "city": "New Rochelle",
+   "state": "NY",
+   "slug": "new-roc-city-stm-18-imax-rpx-0297"
+  },
+  "0652": {
+   "name": "Bridgeport Stadium 18 & IMAX",
+   "city": "Tigard",
+   "state": "OR",
+   "slug": "bridgeport-stadium-18-imax-0652"
+  },
+  "0385": {
+   "name": "Downingtown Stadium 16 & IMAX",
+   "city": "Downingtown",
+   "state": "PA",
+   "slug": "downingtown-stadium-16-imax-0385"
+  },
+  "0379": {
+   "name": "Warrington Stadium 22 & IMAX",
+   "city": "Warrington",
+   "state": "PA",
+   "slug": "warrington-stadium-22-imax-0379"
+  }
+ },
+ "good_now": [
+  {
+   "when": "2026-12-11T10:00:00",
+   "theatre": "Hacienda Stadium 20 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 94,
+   "rows": {
+    "I": 8,
+    "H": 7,
+    "G": 15,
+    "F": 17,
+    "E": 19,
+    "D": 28
+   }
+  },
+  {
+   "when": "2026-12-11T10:00:00",
+   "theatre": "Regal Opry Mills 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 180,
+   "rows": {
+    "K": 19,
+    "J": 30,
+    "I": 26,
+    "H": 26,
+    "G": 27,
+    "F": 20,
+    "E": 32
+   }
+  },
+  {
+   "when": "2026-12-11T10:10:00",
+   "theatre": "Regal Mall of Georgia IMAX",
+   "fmt": "70mm",
+   "good": 129,
+   "rows": {
+    "I": 13,
+    "H": 25,
+    "G": 21,
+    "F": 21,
+    "E": 22,
+    "D": 27
+   }
+  },
+  {
+   "when": "2026-12-11T10:25:00",
+   "theatre": "New Roc City Stm 18 IMAX & RPX",
+   "fmt": "IMAX",
+   "good": 151,
+   "rows": {
+    "J": 16,
+    "I": 27,
+    "H": 27,
+    "G": 27,
+    "F": 27,
+    "E": 27
+   }
+  },
+  {
+   "when": "2026-12-11T10:50:00",
+   "theatre": "Downingtown Stadium 16 & IMAX",
+   "fmt": "IMAX",
+   "good": 145,
+   "rows": {
+    "M": 22,
+    "L": 19,
+    "K": 19,
+    "J": 17,
+    "I": 17,
+    "H": 17,
+    "G": 17,
+    "F": 17
+   }
+  },
+  {
+   "when": "2026-12-11T11:00:00",
+   "theatre": "Bridgeport Stadium 18 & IMAX",
+   "fmt": "IMAX",
+   "good": 128,
+   "rows": {
+    "Q": 9,
+    "P": 11,
+    "O": 19,
+    "N": 19,
+    "M": 16,
+    "L": 18,
+    "K": 15,
+    "J": 15,
+    "I": 6
+   }
+  },
+  {
+   "when": "2026-12-11T11:00:00",
+   "theatre": "Ontario Palace 22 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 144,
+   "rows": {
+    "M": 5,
+    "L": 11,
+    "K": 20,
+    "J": 6,
+    "I": 12,
+    "H": 30,
+    "G": 32,
+    "F": 28
+   }
+  },
+  {
+   "when": "2026-12-11T11:00:00",
+   "theatre": "Long Beach Stadium 26 & IMAX",
+   "fmt": "IMAX",
+   "good": 78,
+   "rows": {
+    "H": 7,
+    "G": 18,
+    "F": 18,
+    "E": 17,
+    "D": 18
+   }
+  },
+  {
+   "when": "2026-12-11T11:20:00",
+   "theatre": "Colorado Mills 16 IMAX & RPX",
+   "fmt": "IMAX",
+   "good": 236,
+   "rows": {
+    "S": 10,
+    "R": 10,
+    "Q": 26,
+    "P": 26,
+    "O": 21,
+    "N": 21,
+    "M": 20,
+    "L": 21,
+    "K": 21,
+    "J": 21,
+    "I": 14,
+    "H": 25
+   }
+  },
+  {
+   "when": "2026-12-11T12:00:00",
+   "theatre": "Waterford Lakes Stm 20 & IMAX",
+   "fmt": "IMAX",
+   "good": 251,
+   "rows": {
+    "T": 14,
+    "S": 14,
+    "R": 18,
+    "Q": 22,
+    "P": 22,
+    "O": 20,
+    "N": 22,
+    "M": 13,
+    "L": 10,
+    "K": 24,
+    "J": 24,
+    "I": 24,
+    "H": 24
+   }
+  },
+  {
+   "when": "2026-12-11T13:45:00",
+   "theatre": "Regal Opry Mills 4DX & IMAX",
+   "fmt": "70mm",
+   "good": 189,
+   "rows": {
+    "K": 20,
+    "J": 30,
+    "I": 29,
+    "H": 31,
+    "G": 27,
+    "F": 20,
+    "E": 32
+   }
+  },
+  {
+   "when": "2026-12-11T14:00:00",
+   "theatre": "Hacienda Stadium 20 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 70,
+   "rows": {
+    "I": 2,
+    "H": 5,
+    "G": 10,
+    "F": 12,
+    "E": 17,
+    "D": 24
+   }
+  },
+  {
+   "when": "2026-12-11T14:05:00",
+   "theatre": "Regal Mall of Georgia IMAX",
+   "fmt": "70mm",
+   "good": 111,
+   "rows": {
+    "I": 11,
+    "H": 20,
+    "G": 19,
+    "F": 16,
+    "E": 20,
+    "D": 25
+   }
+  },
+  {
+   "when": "2026-12-11T14:10:00",
+   "theatre": "Warrington Stadium 22 & IMAX",
+   "fmt": "IMAX",
+   "good": 198,
+   "rows": {
+    "O": 7,
+    "N": 19,
+    "M": 23,
+    "L": 22,
+    "K": 22,
+    "J": 22,
+    "I": 22,
+    "H": 19,
+    "G": 22,
+    "F": 20
+   }
+  },
+  {
+   "when": "2026-12-11T14:30:00",
+   "theatre": "Irvine Spectrum 20 IMAX & RPX",
+   "fmt": "70mm",
+   "good": 153,
+   "rows": {
+    "L": 5,
+    "K": 16,
+    "J": 19,
+    "I": 19,
+    "H": 20,
+    "G": 19,
+    "F": 27,
+    "E": 28
+   }
+  }
+ ],
+ "counts": {
+  "good": 15,
+  "shows": 31,
+  "venues": 14,
+  "shows_70mm": 17
+ }
+}
